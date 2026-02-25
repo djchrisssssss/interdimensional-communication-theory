@@ -54,7 +54,7 @@
 - **正體中文原版：** [DOI 10.5281/zenodo.15658685](https://doi.org/10.5281/zenodo.15658685)
 - **英文翻譯版：** [DOI 10.5281/zenodo.15664444](https://doi.org/10.5281/zenodo.15664444)
 
-> Kris Lai (2025). *Interdimensional Communication Theory: A Structural Interpretation of the Universe, Consciousness, Life, Reincarnation, and Causation* (v0.9.22). Zenodo.
+> Kris Lai (2025). *Interdimensional Communication Theory: A Structural Interpretation of the Universe, Consciousness, Life, Reincarnation, and Causation*. Zenodo.
 > [https://doi.org/10.5281/zenodo.15664444](https://doi.org/10.5281/zenodo.15664444)
 
 ---
