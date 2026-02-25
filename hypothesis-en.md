@@ -374,16 +374,15 @@ This framework entirely discards the foundations of traditional time-sequenced c
 
 #### **2.4.2 Structural Definition**
 
-Let G = (V, E) be a directed acyclic graph (DAG), where:
+Let $G = (V, E)$ be a directed acyclic graph (DAG), where:
 
-- V is the set of potential nodes;
+- $V$ is the set of potential nodes;
 
-- $E \subseteq V \times V is the set of directed edges, representing possible paths of resonance propagation$;
-
+- $E \subseteq V \times V$ is the set of directed edges, representing possible paths of resonance propagation;
 
 - Each edge $(u, v) \in E$ indicates that node u can exert an engraving-resonance influence on node v.
 
-Each node $v \in V $is assigned a state S_v \in \{ $\texttt{unformed}$, $\texttt{engravable}$, $\texttt{engraved}$ \}, defined as follows:
+Each node $v \in V$ is assigned a state $S_v \in \{ \texttt{unformed}, \texttt{engravable}, \texttt{engraved} \}$, defined as follows:
 
 
 - $\texttt{unformed}$: the node has not yet received sufficient resonance;
@@ -518,7 +517,7 @@ All four causal models describe event relations, but only **Node Engraving Dynam
 - **“Memory”** is not an act of retrieval, but the **persistent structural residue** of engraved nodes within the field.
 
 
-- **“Error”** is not a misreading of language, but an **engraving failure**—a node remaining in the unformed$\texttt{unformed}$unformed state due to insufficient resonance.
+- **"Error"** is not a misreading of language, but an **engraving failure**—a node remaining in the $\texttt{unformed}$ state due to insufficient resonance.
 
 
 This allows for **compression, projection, storage, and re-transmission** of signals without assuming semantics or temporality.
@@ -1083,21 +1082,19 @@ This inscription process follows three structural steps:
 #### **4.4.1 From Threshold to Appearance Mode Selector**
 
 
-In this revised model, a threshold ($\theta)$ is no longer viewed as a binary switch but as a parameter controlling the **mode of appearance** of a quantum signal. It determines whether a signal manifests as a wave-like, particle-like, or ambiguous structure in lower-dimensional projection.
-
+In this revised model, a threshold $\theta$ is no longer viewed as a binary switch but as a parameter controlling the **mode of appearance** of a quantum signal. It determines whether a signal manifests as a wave-like, particle-like, or ambiguous structure in lower-dimensional projection.
 
 We propose a generalized manifestation operator:
 
-M(θ)=∣ψ⟩⟨ψ∣⋅f(θ,E,Δt)
+$$
+M(\theta) = \lvert\psi\rangle\langle\psi\rvert \cdot f(\theta, E, \Delta t)
+$$
 
 Where:
 
-- M(θ): Mode-of-appearance operator
+- $M(\theta)$: Mode-of-appearance operator
 
-
-$$
-- : Coupling function dependent on threshold \theta, measurement precision E, and interaction time Δt
-$$
+- $f(\theta, E, \Delta t)$: Coupling function dependent on threshold $\theta$, measurement precision $E$, and interaction time $\Delta t$
 
 
 This implies that:
@@ -1156,11 +1153,11 @@ $$
 
 Where:
 
-- A_i(t):Dynamic amplitude factor of dimension 𝑖 , modulated by internal/external informational perturbations
+- $A_i(t)$: Dynamic amplitude factor of dimension $i$, modulated by internal/external informational perturbations
 
-- \omega_i:Intrinsic frequency of the dimension, representing its structural vibration
+- $\omega_i$: Intrinsic frequency of the dimension, representing its structural vibration
 
-- \phi_i:Phase angle, indicating the synchronization level (resonance alignment) between dimension 𝑖 and others
+- $\phi_i$: Phase angle, indicating the synchronization level (resonance alignment) between dimension $i$ and others
 
 #### 4.6.2 Emergence Threshold Function
 
@@ -1204,11 +1201,11 @@ R_j(t) = \mathcal{F}(R_i(t))
 $$
 
 
-其中:
+Where:
 
-- \theta_i:Emergence threshold for dimension i
+- $\theta_i$: Emergence threshold for dimension $i$
 
-- $\mathcal{F}$:Resonance transfer function, possibly involving phase adjustment, frequency alignment, or modality transformation
+- $\mathcal{F}$: Resonance transfer function, possibly involving phase adjustment, frequency alignment, or modality transformation
 
 #### 4.6.4 Heuristic Representation of the CPRR Chain
 
@@ -2471,11 +2468,11 @@ $$
 
 Where:
 
-- R(x): Resonance strength at node x
+- $R(x)$: Resonance strength at node $x$
 
-- \theta_x: Stability threshold for node  x
+- $\theta_x$: Stability threshold for node $x$
 
-- \nabla T(x):Local gradient of tension misalignment at node x; large deviation implies structural disruption
+- $\nabla T(x)$: Local gradient of tension misalignment at node $x$; large deviation implies structural disruption
 
 
 ---
