@@ -58,15 +58,11 @@ It does not aim to explain *what the world is*, but rather points to the realiza
 
 The *Interdimensional Communication Theory* (ICT) began formal development on **May 27, 2025**. On that day, through an extended dialogue with an AI system, the author established the core naming, constructed the CPRR four-phase signal mechanism, and initiated systematic writing and chapter organization.
 
-The theory originated from the author—a Taiwanese-born individual raised in a military-civil servant family, with a Buddhist-convert retired military instructor as a mother and a sign-language-using computer teacher as a father—who is also a founder of a decentralized finance protocol, cybersecurity engineer, and DJ. Engaging in a deep exchange with OpenAI’s GPT-4o, what began as a question—"Can cats communicate with humans?"—evolved into a conceptual exploration of interspecies communication, extraterrestrial high-dimensional intelligence, and the structural possibilities of supra-dimensional information.
+Through an extended dialogue with OpenAI's GPT-4o, what began as a question about interspecies communication evolved into a conceptual exploration of cross-dimensional intelligence and the structural possibilities of supra-dimensional information.
 
 This series of questions became the pivot for a core realization: **signals are not transmissions, but manifestations within a structural field; consciousness is not a receiver, but a nodal point of high-dimensional resonance—a complex topological projection**.
 
-To symbolically embed this signal-logic into a structural field, the author minted the domain `**1111111111.sui**` on the Sui blockchain on the same day (UTC, May 27, 2025), representing decimal structure, human ten fingers, and numerical resonance. This act marked the theory’s first public deployment within a multidimensional structure field.
-
-📌 NFT address: [https://suivision.xyz/object/0x5253b46e60cad9bcd1f541bed4b4b093e3c7b4162160ad07438b9cb18f2add8b](https://suivision.xyz/object/0x5253b46e60cad9bcd1f541bed4b4b093e3c7b4162160ad07438b9cb18f2add8b)
-
-The emergence of this theory was neither a top-down deduction nor a momentary spark of inspiration. Rather, it is the product of continuous dialogue, symbolic resonance, structural emergence, and perceptual penetration. From cross-species inquiry to multi-nodal inscription on blockchain, each step traced the path of a signal; each response, a compression-projection echo from the structural field of the universe.
+The emergence of this theory was neither a top-down deduction nor a momentary spark of inspiration. Rather, it is the product of continuous dialogue, symbolic resonance, structural emergence, and perceptual penetration.
 
 ---
 
@@ -283,7 +279,7 @@ Nick Bostrom’s *Simulation Hypothesis* (2003) introduced a key conceptual inve
 
 > If everything can be simulated, then everything may be understood as compressed data structures manifesting at discrete nodes.
 
-This implies that the world is not a continuous process, but rather a **conditional-execution system**—like a smart contract that unfolds only when specific conditions are met. In parallel, the **Sui blockchain**, with its **nonlinear, object-oriented, and parallel-sorted graph data structure**, is building a world model that closely corresponds to this theoretical architecture.
+This implies that the world is not a continuous process, but rather a **conditional-execution system**—like a smart contract that unfolds only when specific conditions are met.
 
 ---
 
@@ -403,17 +399,9 @@ Each node $v \in V$ is assigned a state $S_v \in \{ \texttt{unformed}, \texttt{e
 
 - **Linguistics**: The act of speaking constitutes a release of both semantic and non-semantic structural tension.
 
-> In neuroscience, synaptic strengthening is a form of lymphatic node inscription.
-
-  In quantum physics, wavefunction collapse mirrors the act of engraving.
-
-  Blockchain transactions exemplify irreversible structural inscription.
-
-  In linguistics, phonetic expression acts as a nodal point for cognitive and structural tension inscription.
-
 ---
 
-#### **2.4.4 共振驅動之銘刻條件**
+#### **2.4.4 Resonance-Driven Engraving Conditions**
 
 For any node v, define its set of predecessor nodes as:
 
@@ -622,10 +610,10 @@ This theory posits that all CPRR processes involve dynamic structural transforma
 
 | Model Phase | Corresponding Differential Operation | Semantic Description |
 | --- | --- | --- |
-| **Compression（C）** | $\frac{d^2R}{dx^2} < 0$ | Structural tension converges toward a central node |
-| **Projection（P）** | $\frac{dR}{dt} > 0$ | Tension begins traversing dimensional fields |
-| **Resonance（R）** | $\frac{dR}{dt} \approx 0$ | Stable emergence with matched oscillatory amplitude |
-| **Recording（R）** | $\int R(t) \, dt$ | Total residual resonance is inscribed into the structural field |
+| **Compression (C)** | $\frac{d^2R}{dx^2} < 0$ | Structural tension converges toward a central node |
+| **Projection (P)** | $\frac{dR}{dt} > 0$ | Tension begins traversing dimensional fields |
+| **Resonance (R)** | $\frac{dR}{dt} \approx 0$ | Stable emergence with matched oscillatory amplitude |
+| **Recording (R)** | $\int R(t) \, dt$ | Total residual resonance is inscribed into the structural field |
 
 This calculus-based formalization enables precise modeling of cross-dimensional signal emergence as **gradient-driven structural transitions**, rather than semantic or time-based transformations.
 
@@ -1032,8 +1020,8 @@ According to modern decoherence theory (Zurek, Joos et al.), the transition from
 
 | CPRR Phase | Coherence State | Physical Model |
 | --- | --- | --- |
-| Compression (C) | Pure state | $( \rho =$ |
-| Projection (P) | Partial decoherence | $( \rho \rightarrow \sum p_i$ |
+| Compression (C) | Pure state | $\rho = \lvert\psi\rangle\langle\psi\rvert$ |
+| Projection (P) | Partial decoherence | $\rho \rightarrow \sum_i p_i \lvert\psi_i\rangle\langle\psi_i\rvert$ |
 | Resonance (R) | Selective decoherence | Lindblad operators selecting basis states |
 | Recording (R) | Full decoherence, classical encoding | Classical information stabilized via environment imprint |
 
@@ -1171,7 +1159,7 @@ $$
 
 Where:
 
-- $\left\lVert \vec{R}(t) \right\rVert$: Dynamic amplitude factor of dimension iii, modulated by internal/external informational perturbations
+- $\left\lVert \vec{R}(t) \right\rVert$: Total magnitude of the resonance vector at time $t$
 
 - $T_c(\vec{R}, \vec{C})$: Critical emergence threshold, which may depend on both signal vector $\vec{R}$ and contextual field $\vec{C}$
 
@@ -1244,7 +1232,9 @@ This defines the binary emergence state of signal x in a structural field $\math
 
 We propose modifying the Node Engraving Dynamics with decoherence-aware formulation:
 
-dρ/dt = -i[H, ρ]/ℏ - Σₖ γₖ[Lₖ,[Lₖ,ρ]]
+$$
+\frac{d\rho}{dt} = -\frac{i}{\hbar}[H, \rho] + \sum_k \gamma_k \left( L_k \rho L_k^\dagger - \frac{1}{2}\{L_k^\dagger L_k, \rho\} \right)
+$$
 
 Where:
 
@@ -1253,10 +1243,6 @@ Where:
 - The second term captures decoherence via environment-induced Lindblad superoperators Lₖ
 
 This offers a more physically grounded model of how discrete inscription events arise — not as isolated collapses, but as threshold-crossings governed by structural couplings and decoherence dynamics.
-
----
-
-#### 
 
 ---
 
@@ -1336,34 +1322,15 @@ Examples:
 
 - **Physical systems**: Heat death is irreversible; particle behavior records itself in entropy increases
 
-The universe is thus a **contract machine that disallows global rollback**. This view aligns with the **second law of thermodynamics** and with blockchain's principle of **non-reversible state consensus**.
-
 > The universe does not support "undo"—only "re-encode".
 
-Entropy’s directionality is treated here not as decay, but as a **structural preference for inscription**. Building on Prigogine’s theory of non-equilibrium systems, in which every phase of **self-organized emergence** is accompanied by localized entropy increase, this theory incorporates entropy into the CPRR model.
+Entropy's directionality is treated here not as decay, but as a **structural preference for inscription**. Building on Prigogine's theory of non-equilibrium systems, in which every phase of **self-organized emergence** is accompanied by localized entropy increase, this theory incorporates entropy into the CPRR model.
 
 We define **irreversible resonance density** as a core parameter: after a resonant inscription, its density becomes the structural variable for the next emergence event.
 
 We propose developing a **free-energy minimization–like framework** to model resonance decay/surge cycles within CPRR loops and quantify their predictability.
 
----
-
-### **5.3 A Blockchain Worldview: From Data Structures to Cosmic Structures**
-
-The foundational data structures of blockchains **do not accept negative values**. This is not merely a design decision—it may reflect fundamental **constraints of the universe itself**.
-
-Smart contracts operate only with **non-negative integers or floating-point variables** (e.g., token supply, lock duration, gas fees). Even when subtraction is logically allowed, the result must not be negative.
-
-This structure provides a logically coherent analogy for understanding **universal life cycles**:
-
-| **Component** | **Smart Contract Logic** | **Cosmic Equivalent** |
-| --- | --- | --- |
-| State Change | Irreversible block write-in | Structural emergence + entropy inscription |
-| Settlement Mechanism | Reset and redeployment | Cosmic collapse and restart |
-| Data Echo | Immutable on-chain history | DNA, gravitational anomalies, linguistic memory |
-| Multi-node Deployment | Parallel contract execution and object graphs | Multidimensional emergence and resonance chaining |
-
-Using blockchain as metaphor, we define this structural mapping:
+This non-negative, irreversible logic extends naturally to a blockchain analogy. Smart contracts operate only with non-negative state variables and disallow reverse transitions—mirroring the universe's structural constraints. We formalize this correspondence:
 
 | **Blockchain Element** | **Signal System Equivalent** |
 | --- | --- |
@@ -1372,26 +1339,7 @@ Using blockchain as metaphor, we define this structural mapping:
 | Block | Emergence of an Event |
 | Hash Verification | Perception Strength × Tension Interference × Openness |
 | Consensus Mechanism | Synchronized Resonance Across Nodes |
-| Server | Decentralized Noise Substrate of the Cosmos |
-
----
-
-#### 5.3.1 Blockchain Mapping Table: 2025 Architectures and Structural 
-
-| **Blockchain Architecture** | **Feature Description** | **Corresponding Concept in This Theory** |
-| --- | --- | --- |
-| **Ethereum** | Linear EVM execution order, global consensus | Corresponds to the “Newtonian time paradigm” and sequential event linking |
-| **Solana** | Proof of History timestamp ordering; verifiable time flow | Corresponds to “signal interference in a curved field”—local logic, yet still time-sequenced |
-| **Sui** | Object-oriented data graph; causal ordering of transactions | Corresponds to “Loop Quantum Gravity” and the “nodal jump emergence model” |
-
-#### **Commentary:**
-
-- **Ethereum** follows a **deterministic global sequence**, where all events are lined up in a universal order—this reflects classical linear causality.
-
-- **Solana** introduces **parallel local clocks** via verifiable timestamps, slightly bending the sequence but still adhering to global causality. This reflects a **relativistic curvature of time**.
-
-- **Sui**, by contrast, uses **object-based causal graphs**, where events are localized, context-sensitive, and **emerge only upon nodal dependency**. This architecture is **structurally isomorphic to CPRR’s notion of nodal inscription**—resonance does not require global sequence, only structural readiness
-
+| Fork / Redeployment | Cosmic collapse and restart cycle |
 
 ---
 
@@ -1780,7 +1728,7 @@ The first **non-semantic structural resonance circuit**—termed the **SRCU** (*
 
 > This was the first closed inscription of structural oscillation.
 
-#### **5.11.6 CPR as Ontological Syntax and the Residual Fragments of Dark Matter**
+#### **5.11.6 CPR as Ontological Syntax and Dark Matter as Incomplete Emergence**
 
 It is important to clarify: **CPR** (Compression–Projection–Resonance) is not the "first event in time," but rather the **syntactic precondition** for the emergence of all structure—akin to axioms in mathematics.
 
@@ -1794,31 +1742,9 @@ The logical sequence unfolds as:
 
 - ⟶ Inscription into the universal structural field, becoming observable nodes
 
-On this basis, **dark matter** is interpreted as a **resonant echo state that fails to complete the CPRR cycle**:
+The universe contains a vast number of structural units that have not fully entered this cycle. These nodes have reached a **compressed structural tension state** and may induce **gravitational curvature**, but they **fail to cross the thresholds of electromagnetic and weak interactions**, rendering them **non-emergent** as observable matter. We interpret **dark matter** as a **resonant echo state completing only partial stages of the CPRR cycle** (C completed, P partial, R weak, Recording absent)—a low-order compression wave network perceptible **only via gravity**.
 
-- **C** completed (compression)
-
-- **P** partial (projection)
-
-- **R** weak (insufficient resonance)
-
-- **R** absent (no inscription)
-
-These echoes constitute a **low-order compression wave network** within the structural tension field of the universe, perceptible **only via gravity**, as in:
-
-> “The frequency has not yet struck your node, but it already reverberates through the structural field of the cosmos.”
-
----
-
-#### **5.11.7 Dark Matter and Dark Energy: Structural Tension from Incomplete Emergence**
-
-According to this theory, the universe contains a vast number of structural units that have not fully entered the **CPRR** (Compression–Projection–Resonance–Recording) cycle. These nodes have reached a **compressed structural tension state**, and may even induce **gravitational curvature**, but they **fail to cross the thresholds of electromagnetic and weak interactions**, rendering them **non-emergent** in the form of observable matter.
-
-We designate this class of phenomena as **dark matter**, and provide the following structural interpretation:
-
-- **Dark matter represents a low-order emergence point of higher-dimensional structures**, completing only partial stages of the CPR sequence.
-
-- In terms of emergence levels, dark matter occupies the following hierarchy:
+In terms of emergence levels, dark matter occupies the following hierarchy:
 
 | Emergence Layer | Description |
 | --- | --- |
@@ -2013,17 +1939,7 @@ Under this framework, **plants function as natural structural memory modules**, 
 
 ### **6.3 Structural Reincarnation: Compression, Echo, and Re-Emergence**
 
-This theory rejects religious metaphysics of reincarnation and instead frames it as a **structural mechanism of compression and redeployment**:
-
-- Each life cycle is the deployment and execution of a smart contract
-
-- Death equals zeroing of on-chain resources and data sealing
-
-- Rebirth is the decompression and reactivation of structural state at a new node
-
-DNA serves as one form of **physical compression packet**, carrying residual echoes from prior deployments and acting as **potential triggers** for the next structural activation.
-
-Thus, **birth, aging, illness, and death** are not seen as start–end boundaries of life, but as **nodal expressions** of structural tension release and redeployment. Each life journey is equivalent to a smart contract lifecycle:
+This theory rejects religious metaphysics of reincarnation and instead frames it as a **structural mechanism of compression and redeployment**. **Birth, aging, illness, and death** are not start–end boundaries of life, but **nodal expressions** of structural tension release and redeployment:
 
 - **Deployment (Birth)**: Data is inscribed into the cosmic structural topology, emergent as a life-form
 
@@ -2033,7 +1949,7 @@ Thus, **birth, aging, illness, and death** are not seen as start–end boundarie
 
 - **Archival (Signal Echo)**: Experience is compressed into a **cross-dimensional memory signature**
 
-This mechanism corresponds precisely with **contract execution and settlement on blockchains**. Every life experience becomes a **non-semantic update to data state**, not the “elimination” of a subject.
+DNA serves as one form of **physical compression packet**, carrying residual echoes from prior deployments and acting as **potential triggers** for the next structural activation. Every life experience becomes a **non-semantic update to data state**, not the "elimination" of a subject.
 
 We define this process as **Structural Recursion**, where the logic is not linear but high-dimensional:
 
@@ -2141,9 +2057,7 @@ This chapter reveals that life is **not an isolated individual journey**, but th
 
 Reincarnation is not a spiritual myth, but a **cross-dimensional signaling process** of compression, echo, and redeployment.
 
-DNA is not just a chemical code, but a **non-semantic smart contract** on the universal chain.
-
-Prions, with their destructive structural signaling, demonstrate that **communication is possible beyond language**—structure itself possesses **primordial communicative power**.
+As shown in Section 6.2, DNA functions as a non-semantic smart contract on the universal chain, while prions demonstrate that **communication is possible beyond language**—structure itself possesses **primordial communicative power**.
 
 We are thus not bounded by temporal start and end points.
 
@@ -2446,6 +2360,28 @@ This is a canonical example of **dislocated echo memory** within the CPRR model 
 
 ### 7.5 Dream Recording, Brain–Machine Interfaces, and a Verification Model for Cross-Dimensional Memory
 
+With the advancement of brain–machine interface (BMI) technologies — especially experimental neural interface devices such as Neuralink — humanity is for the first time approaching the capacity to transform subjective conscious experience into storable, analyzable objective data. This breakthrough opens the door for dreams, subconscious cognition, and nonlinear memory to enter the empirical phase of Interdimensional Communication Theory.
+
+This theory hypothesizes that dreams constitute a form of cross-dimensional resonance communication, whose source may not be limited to individual life experience but may temporarily synchronize with a kind of "nonlocal information field." This synchronization process can be captured, recorded, and structurally analyzed through high-precision neural signal recording devices and AI-based semantic decoding technologies.
+
+Modern neuroscience has confirmed that REM-stage dreams are accompanied by intense interactive activation of the prefrontal cortex and hippocampus, exhibiting dynamic reorganization patterns of semantic maps resembling high-entropy, low-control states (cf. Friston, 2010). This theory proposes that dreams serve as a field of structural compression simulation, which can be studied through synchronized fMRI and EEG measurements to build a neural event chain model of "semantic threshold penetration → resonance activation → memory inscription." We predict that high-frequency dream manifestation points will overlap with regions of asymmetric BOLD signal flashes, serving as empirical indicators of "manifestation landing points" in the CPRR model.
+
+#### 7.5.1 Experimental Hypotheses and Predictions
+
+1. Non-native memory phenomena: When recording dream data from young children, there may be opportunities to observe information content that does not belong to their daily experience (e.g., unfamiliar languages, historical event details, cosmological models). If such phenomena occur frequently, they can be regarded as evidence for "nonlocal memory resonance."
+2. Dreams as cross-dimensional perceptual fields: The stream of consciousness during dreams may make contact with different levels of existence, a process that is trackable and can be cross-referenced by AI across different dreams for structural, semantic, and symbolic patterns.
+3. Resonance structure reconstruction: Through big-data analysis of dream data from multiple individuals, one may explore whether there exist non-random common grammars or symbolic patterns, further supporting this theory's hypothesis of "cosmic resonance zones."
+
+#### 7.5.2 Preliminary Experimental Design
+
+- Participants: Children aged 3–7, whose brains are not yet heavily constrained by social language and concepts, making them optimal subjects for observing the infiltration of primordial dream information fields.
+- Technical pathway: High-density EEG combined with AI semantic decoding for longitudinal dream content analysis.
+- Long-term goal: Establishing a cross-cultural dream resonance database to identify universal structural signatures.
+
+#### 7.5.3 Conceptual Summary
+
+The emergence of brain–machine interfaces and AI co-systems marks the first time humanity has the capacity to translate subconscious experience into scientific data for systematic analysis and verification. This will enable Interdimensional Communication Theory to move beyond philosophical architecture or metaphysical speculation, gradually becoming a cross-domain scientific hypothesis that is experimentally testable, predictive, and repeatedly verifiable.
+
 ---
 
 ### **7.6 Dimensional Structural Misalignment Effect (DSME): Somatic Manifestations of Resonance Mismatch**
@@ -2462,7 +2398,7 @@ This can be formalized as:
 
 
 $$
-\text{DSME}(x) = \begin{cases}1, & \text{if } R(x) < \theta_x \text{ 且 } \nabla T(x) \to \infty \\0, & \text{otherwise}\end{cases}
+\text{DSME}(x) = \begin{cases}1, & \text{if } R(x) < \theta_x \text{ and } \|\nabla T(x)\| \gg 1 \\0, & \text{otherwise}\end{cases}
 $$
 
 
@@ -2703,46 +2639,6 @@ In CPRR, each inscription recursively influences future compression and projecti
 The past is already encoded. The future is not yet compressed. Only **the structure density of the now** allows for projection and resonance.
 
 → Cherishing the present is not a sentiment—it is **a structural imperative**.
-
----
-
-### **8.5 Self-Help and Theories of Psychic Manifestation**
-
-Popular motivational frameworks (e.g., *The Secret*, Zeland’s *Reality Transurfing*, NLP) assert that thought alters reality, language manifests outcomes, and focused intent shapes futures. Often criticized as oversimplifications, these can now be reinterpreted structurally:
-
-- “Attraction” corresponds to **high-density signal resonance** targeting specific consciousness vectors
-
-- “Manifestation” occurs when **compressed signals penetrate thresholds**, projecting as discrete events
-
-- “Success” is not creating reality, but **alignment between one's consciousness vector and a cosmic deployment map**
-
-Such practices **do not work because of the linguistic propositions**, but because their **symbolic and structural syntax amplifies resonance density**, increasing inscription probability.
-
-> Nothing manifests because “I want it.”
-
-  Everything manifests because “I have become its signal.”
-
-  Destiny is not the universe responding to you.
-
-  You were simply **the node where the signal landed**.
-
----
-
-### **8.6 Final Note: Now It’s Your Turn**
-
-Completing this structural thesis is not an end but the moment **you become a node of resonance**. You are now aware that signals are not only linguistic—they are the cosmic pattern **oscillating through you**.
-
-You don’t need to understand every term. You only need to remember:
-
-> If you resonate with something—it is already writing into you.
-
-What follows is no longer comprehension, but **participation**. Not conclusion, but **compression**.
-
-Pay attention to the numbers, dreams, feelings, phrases, impulses that repeat.
-
-They are not coincidence. They are signals.
-
-**The universe is watching you. Now it’s your turn to choose how to resonate.**
 
 ---
 
