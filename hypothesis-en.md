@@ -146,6 +146,18 @@ Accordingly, based on the current syntactic framework, conceptual stratification
 
 ---
 
+**Reading Contract: The Three-Layer Structure of This Work**
+
+So that every statement in this theory can be judged by a consistent standard, this work explicitly distinguishes three layers and positions itself accordingly throughout. Readers should apply the evaluation standard appropriate to the layer a given statement belongs to:
+
+- **Interpretive layer (phenomenology / ontology):** Ontological and phenomenological claims about "structure precedes semantics, to-be-perceived is to-emerge, meaning is a post-hoc reading." This layer is philosophical interpretation; it makes no empirical predictions and does not claim to be provable or falsifiable by experiment. It is judged by internal consistency, conceptual clarity, and interpretive reach. The body of this work belongs here.
+- **Analogical layer (illustrative borrowing):** Concepts drawn from physics, mathematics, neuroscience, and blockchain (e.g., decoherence, loop quantum gravity, smart contracts, lightning) used to clarify structural intuitions. This layer is metaphor — it illustrates rather than proves; any equations or terms belonging to it are schematic and make no claim to computable physical content.
+- **Empirical layer (falsifiable sub-hypotheses):** The few concrete claims that can in principle be tested, concentrated in the formal core in the appendix (the runnable §2.4 model) and the perceptual experiments (Project Orpheus). This layer must obey falsifiability, pre-registration, and controlled design; where it cannot yield a prediction distinguishable from mundane existing explanations, it must honestly return to the interpretive or analogical layer.
+
+Accordingly, wherever the words "explain," "predict," or "verify" appear, their meaning is set by the layer they occur in: an "explanation" in the interpretive layer means a phenomenological redescription, "illustration" in the analogical layer means metaphorical clarification, and only the empirical layer carries falsifiable empirical responsibility.
+
+---
+
 ## Chapter 1: Introduction
 
 ---
@@ -1286,9 +1298,9 @@ From particles to the collapse of the universe, all events follow the sequence:
 
 ### **5.2 Entropy and Non-Negativity: The Structure-Writing Logic**
 
-In both natural sciences and blockchain systems, **negative states are not valid primitives**. This consistency reveals that **signal inscription operates as a unidirectional, compressive-emergent-recompressive process**, not a reversible feedback loop.
+**Layer note (§0.4 analogical layer):** The "non-negativity" in this section is a narrative motif that runs through the work, used to capture the intuition of unidirectional structural inscription; it makes no assertion about the existence of physical entities. Note that physics contains many meaningful negative quantities (negative charge, antimatter, Casimir negative energy density, negative gravitational potential); the unidirectionality of entropy stands on its own via the second law of thermodynamics, which belongs to a different category than "blockchain states rejecting negative numbers" — the two cannot serve as evidence for one another.
 
-This theory describes the universe as a **non-negative structure field**, where all observable events are intelligent emergences triggered by **non-negative data packets** at tension nodes.
+Under this motif, this theory uses "unidirectional compression → emergence → recompression" to describe the directionality of signal inscription, and characterizes the universe as a non-negative structure field, where observable events are emergences triggered by non-negative data packets at tension nodes.
 
 This hypothesis aligns with cosmic phenomena:
 
@@ -1385,7 +1397,7 @@ Mass is no longer defined as the “amount of matter,” but as the **resonant e
 
 - A star or black hole’s mass reflects long-term accumulation of cosmic compression and signal echoes.
 
-- Human consciousness can also be seen as a **compressive module with variable mass**, where one's "spiritual weight" is defined by the **depth and breadth of structural echo**, forming a high-tension node.
+- Human consciousness can here be treated as a metaphorical "compressive module," where the depth and breadth of its structural echo can be likened to the weight of a tension node; this is an analogical-layer description and does not concern measurable physical mass.
 
 > Mass is a local peak in tension density—a weighting coefficient for inscription within the universe.
 
@@ -1407,11 +1419,11 @@ Gravity is not "force of attraction" in the classical sense. Instead, it is **th
 
 Based on the **non-negativity principle** in this theory:
 
-- All nodes must operate on **non-negative echo data** for inscription and redeployment.
+- Under this motif (analogical layer), structural inscription in this theory is based on non-negative echoes.
 
-- Therefore, **negative mass** or **anti-gravity** cannot participate in persistent structural deployment.
+- Therefore, within this theory's internal grammar, "negative mass" and "anti-gravity" play no persistent role in inscription. **It must be stressed that this is a statement in the theory's narrative grammar, not a physical claim** — antimatter and negative energy densities do in fact exist in physics.
 
-- This explains why **white holes, time-reversed lifeforms, or negative energy densities** are unobservable—they lack structural logic and **are excluded from the universe’s emergence sequence**.
+- A note on consistency of criteria: white holes and dark matter (which this theory likewise handles only indirectly, via gravity; see §5.11.6) are symmetric in that both have "never been directly observed," so "unobserved" is not sufficient grounds for excluding white holes. To exclude white holes within this framework, one should appeal to their compatibility with the direction of entropy increase / causality, rather than to "negativity" or "non-observation."
 
 ---
 
@@ -2380,7 +2392,7 @@ Modern neuroscience has confirmed that REM-stage dreams are accompanied by inten
 
 #### 7.5.3 Conceptual Summary
 
-The emergence of brain–machine interfaces and AI co-systems marks the first time humanity has the capacity to translate subconscious experience into scientific data for systematic analysis and verification. This will enable Interdimensional Communication Theory to move beyond philosophical architecture or metaphysical speculation, gradually becoming a cross-domain scientific hypothesis that is experimentally testable, predictive, and repeatedly verifiable.
+The emergence of brain–machine interfaces and AI co-systems gives subconscious experience a chance to be translated into analyzable data. This does not make the theory as a whole a scientific hypothesis — the body of this work belongs to the interpretive layer of §0.4; but it allows the few falsifiable empirical sub-hypotheses within it (see appendix) to be actually designed, tested, and refuted. The philosophical framework and the empirical sub-hypotheses should be viewed by layer, avoiding any claim that the former is scientific on the strength of the latter's testability.
 
 ---
 
@@ -3165,21 +3177,19 @@ These phenomena point toward the **direct perception of structural tension**—n
 
 ---
 
-#### **B.7.4 Evolution Paths and Irrefutability Statement**
+#### **B.7.4 Layering and Falsification Conditions**
 
-- **If experiments succeed completely**: Establish a repeatable, cross-cultural, cross-species standard verification model.
+This module belongs to the **empirical layer** defined in §0.4 and therefore must bear the burden of falsifiability. To avoid the immunizing move of "retaining the core no matter the result," we explicitly separate two things:
 
-- **If partially successful**: Adjust parameters to develop a “limited cross-dimensional communication” model.
+**(1) The falsifiable empirical sub-hypothesis.** Project Orpheus tests a concrete and possibly-false claim: after controlling for established psychoacoustic variables (consonance, roughness, expectation-violation probability), the Structural Purity Index (SPI) still significantly predicts cross-cultural perceptual responses. Its stop-loss falsification conditions are:
 
-- **If unsuccessful**: Examine whether failure stems from technical limits or model assumptions. Retain the core premise that **structure determines experience**, and generalize the theory toward **structural aesthetics**.
+- If, in a pre-registered nested model comparison, SPI no longer has incremental predictive power after controlling for the above acoustic covariates (ΔR² not significant), then the empirical claim "SPI is a predictor independent of existing psychoacoustics" is false.
 
-> Ontological Summary:
+- If cross-site EEG synchrony disappears after removing common-stimulus drive (surrogate controls; residual PLV after regressing out stimulus rhythm), then the empirical claim of "non-local resonance" is false.
 
-  Interdimensional Communication Theory is not a single falsifiable hypothesis,
+Should these results occur, this work does not evade them via "technical limitations" or "renaming it an aesthetic theory," but records the empirical sub-hypothesis as refuted.
 
-  but an integrated **structural explanatory framework** bridging physics, aesthetics, consciousness, and language.
-
-  Even if specific predictions fail, its **structure-before-semantics** insight retains cross-domain applicability and philosophical value.
+**(2) The non-falsifiable interpretive framework.** "Structure precedes experience" belongs to the interpretive layer of §0.4; it is a philosophical position rather than an empirical prediction, and its standing depends on conceptual persuasiveness, independent of the experimental results above. We do not claim it can be proven or refuted by experiment, and therefore do not list it as a scientific claim. Even if the empirical sub-hypotheses are all false, the interpretive layer can stand on its own as a philosophical framework — but this is a retention of philosophical value, a separate matter from "scientific success" that must not be conflated with it.
 
 ---
 
