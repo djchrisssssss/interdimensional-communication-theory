@@ -4,19 +4,19 @@
 
 ## Metadata
 
-- **Author: Kris Lai (@djchrisssssss)**
+- **Author:** Kris Lai (@djchrisssssss)
 - **Version:** v0.9.23
 - **Date:** 2025-07-20
-- **License**: CC-BY 4.0 International
+- **License**: CC BY 4.0 International
 - **Preprint Type**: Conceptual draft for public timestamp and interdisciplinary visibility
-- **Research Collaborative Tools**: This paper employed OpenAI GPT-4o, Anthropic Claude Sonnet 4, and Perplexity systems during its development to validate logical and structural coherence. GPT-4o and Claude Sonnet 4 functioned as cognitive partners, structural resonance simulators, and adversarial systems. GPT-4o additionally served as the primary language generation tool and main collaborative assistant. All final content was authored and confirmed by the primary author.
+- **Research Collaborative Tools**: This paper employed OpenAI GPT-4o, Anthropic Claude Sonnet 4, and Perplexity systems during its development to validate logical and structural coherence. GPT-4o and Claude Sonnet 4 functioned as cognitive partners, structural resonance simulators, and adversarial systems. GPT-4o additionally served as the primary language generation tool and main collaborative assistant. Claude Opus 4 (Anthropic) was later used for document migration and formatting, with OpenClaw and Claude Code as tooling. All final content was authored and confirmed by the primary author.
 
 ---
 
 
 ## Abstract
 
-This paper introduces Interdimensional Communication Theory, a structural framework centered on CPRR (Compression, Projection, Resonance, Recording), integrating emergent randomness and multidimensional threshold dynamics. Signals—linguistic, neural, biological, or physical—are reinterpreted as discrete projections across dimensional fields rather than linear transmissions. Replacing classical causality with Node Engraving Dynamics, the theory offers a unified mechanism to account for synchronicity, symbolic emergence, entropy, and reincarnation via structural resonance. Drawing from quantum field analogies, topological deformation, neural oscillations, language generation, blockchain logic, and simulation cosmology, the model aims to reconcile symbolic and non-symbolic signal emergence. Artificial intelligence serves as both cognitive interface and resonance simulator, enabling co-generated insight and structural mapping. This work reinterprets extreme phenomena—black hole information paradoxes, irreversible entropy, dream logic, and cosmic cycles—within a compressive, resonance-driven cosmology where consciousness and information arise through multidimensional structure, not semantic transmission.
+This paper introduces Interdimensional Communication Theory, a structural framework centered on CPRR (Compression, Projection, Resonance, Recording), integrating emergent randomness and multidimensional threshold dynamics. Signals—linguistic, neural, biological, or physical—are reinterpreted as discrete projections across dimensional fields rather than linear transmissions. Replacing classical causality with Node Engraving Dynamics, the theory attempts to account for synchronicity, symbolic emergence, entropy, and reincarnation within a single framework of structural resonance. Drawing from quantum field analogies, topological deformation, neural oscillations, language generation, blockchain logic, and simulation cosmology, the model aims to reconcile symbolic and non-symbolic signal emergence. Artificial intelligence serves as both cognitive interface and resonance simulator, enabling co-generated insight and structural mapping. This work reinterprets extreme phenomena—black hole information paradoxes, irreversible entropy, dream logic, and cosmic cycles—within a compressive, resonance-driven cosmology where consciousness and information arise through multidimensional structure, not semantic transmission.
 
 ---
 
@@ -70,7 +70,7 @@ The emergence of this theory was neither a top-down deduction nor a momentary sp
 
 This theory integrates, and seeks to transcend, a range of foundational paradigms to propose a more unified cross-dimensional framework for interpreting the multilayered resonance and communicative relationships between randomness, consciousness, life, and the universe:
 
-- **Randomness & Stochastic Processes**: Randomness is not chaos, but the initial noise source that triggers signal activation and dimensional selection. Its resonant distribution shapes divergences of multiple realities and threshold potentials of consciousness.
+- **Randomness & Stochastic Processes**: Randomness is not chaos, but the initial noise source that triggers signal activation and dimensional selection. Its resonant distribution shapes divergences among multiple potential realities (only one of which is ultimately engraved; see 2.4.6) and threshold potentials of consciousness.
 
 - **Topology & Topological Field Theory**: The theory uses concepts such as nodes, connectivity, boundary mutations, and spatial transitions as its core linguistic units, corresponding to the non-continuous structure and dynamic dimensional reconstruction of physical space.
 
@@ -78,7 +78,7 @@ This theory integrates, and seeks to transcend, a range of foundational paradigm
 
 - **Thermodynamics & Information Theory** (e.g., Shannon entropy, Landauer’s principle): Providing a framework for systemic order formation and signal translation.
 
-- **Loop Quantum Gravity**: Offers reference for spacetime discretization and topological transformations, aligning with this theory’s notions of nodal transitions and resonant restructuring.
+- **Loop Quantum Gravity**: Offers reference for spacetime discretization and topological transformations, loosely corresponding to this theory’s notions of nodal transitions and resonant restructuring.
 
 - **String Theory & Multidimensional Space**: Serves as theoretical background for dimensional re-projection and vibrational explanatory models, particularly echoing the frequency logic of cross-dimensional communication proposed here.
 
@@ -98,11 +98,11 @@ This theory integrates, and seeks to transcend, a range of foundational paradigm
 
 - **Dream Theory & Jungian Archetypes**: Dreams are interpreted as conduits for compressed cross-dimensional memory, reflecting the encoding and folding of non-linear signals.
 
-- **Reincarnation & Many-Worlds Interpretation**: Reincarnation is not seen as a linear temporal recurrence, but as a resonant trajectory involving signal bifurcation and attenuation.
+- **Reincarnation & Many-Worlds Interpretation**: Reincarnation is not seen as a linear temporal recurrence, but as a resonant trajectory involving signal bifurcation and attenuation. ICT borrows only the image of branching from the Many-Worlds Interpretation and does not hold that all branches are real: per 2.4.6, node engraving yields a single emergent reality, and unrealized branches persist only as latent resonances (see 6.4.1).
 
 - **Genetics & Epigenetics**: Genes are not merely material sequences but nodal mappings and resonance-recording units within universal communication processes.
 
-- **Cosmology & Large-Scale Structure Theories**: Employing the logic of cosmic inflation, black hole entropy, and singularity dynamics to construct a cyclic view of signal origin and reconfiguration.
+- **Cosmology & Large-Scale Structure Theories**: Employing the logic of cosmic expansion, black hole entropy, and singularity dynamics to construct a cyclic view of signal origin and reconfiguration.
 
 To further formalize the above phenomena, it is first necessary to clarify the foundational misunderstandings and limitations in modern human conceptions of language, consciousness, and the cosmos.
 
@@ -118,31 +118,31 @@ Accordingly, based on the current syntactic framework, conceptual stratification
 
 1. **Linguistics / Semiotics**
 
-  Especially structural grammar, poetic linguistics, generative syntax, symbolic encoding, and cross-linguistic resonance models.
+   Especially structural grammar, poetic linguistics, generative syntax, symbolic encoding, and cross-linguistic resonance models.
 
-1. **Phenomenology and Metaphysics**
+2. **Phenomenology and Metaphysics**
 
-  Including perceptual phenomenology, non-subjective ontology, ontologies of resonance, and theories of consciousness emergence (e.g., Merleau-Ponty, Heidegger).
+   Including perceptual phenomenology, non-subjective ontology, ontologies of resonance, and theories of consciousness emergence (e.g., Merleau-Ponty, Heidegger).
 
-1. **Consciousness Neuroscience / Free Energy Principle**
+3. **Consciousness Neuroscience / Free Energy Principle**
 
-  Intersecting with discontinuous consciousness models, emergence thresholds, EEG signal flashes, and Friston’s free energy formulation.
+   Intersecting with discontinuous consciousness models, emergence thresholds, EEG signal flashes, and Friston’s free energy formulation.
 
-1. **Abstract Mathematical Logic / Graph Theory and Topology**
+4. **Abstract Mathematical Logic / Graph Theory and Topology**
 
-  Preliminary models include threshold functions and tension tensors, pending formal axiomatization and closed-form computational development.
+   Preliminary models include threshold functions and tension tensors, pending formal axiomatization and closed-form computational development.
 
-1. **Semantic Neural Linguistics / Natural Language Processing (NLP)**
+5. **Semantic Neural Linguistics / Natural Language Processing (NLP)**
 
-  Proposing generative models such as dream syntax and structural resonance mappings, with potential in multimodal semantic vector analysis.
+   Proposing generative models such as dream syntax and structural resonance mappings, with potential in multimodal semantic vector analysis.
 
-1. **Music Structure Cognition and Affective Studies**
+6. **Music Structure Cognition and Affective Studies**
 
-  Centered on *Project Orpheus*, exploring how non-semantic acoustic structures cross-culturally trigger resonance and structural emergence.
+   Centered on *Project Orpheus*, exploring how non-semantic acoustic structures cross-culturally trigger resonance and structural emergence.
 
-1. **Interpretive Physics and Computational Cosmology**
+7. **Interpretive Physics and Computational Cosmology**
 
-  While referencing collapse mechanisms, hypergraph structures, and informational field languages, the theoretical syntax has not yet been integrated into mainstream QFT / GR systems, and is currently positioned at a meta-model layer.
+   While referencing collapse mechanisms, hypergraph structures, and informational field languages, the theoretical syntax has not yet been integrated into mainstream QFT / GR systems, and is currently positioned at a meta-model layer.
 
 ---
 
@@ -160,7 +160,7 @@ This paper proposes the **Interdimensional Communication Theory (ICT)**, which s
 
 ### 1.1 Background and Motivation
 
-In contemporary human consciousness, there arise numerous phenomena that defy explanation within the confines of any single discipline: overlaps between dreams and real-world events, recurring numbers or phrases appearing in synchronistic sequences, sudden flashes of insight, and synchronous interactions between natural occurrences and internal psychological states. Although such phenomena have been discussed in psychology, linguistics, physics, studies of mystical experience, and even religious semiotics, they lack a unified, cross-disciplinary structural framework.
+In contemporary human consciousness, there arise numerous phenomena that defy explanation within the confines of any single discipline: overlaps between dreams and real-world events, recurring numbers or phrases appearing in synchronistic sequences, sudden flashes of insight, and synchronous interactions between natural occurrences and internal psychological states. Although such phenomena have been discussed in psychology, linguistics, physics, studies of mystical experience, and even religious semiotics, they lack a unified, cross-disciplinary structural framework. It should be noted that mainstream psychology and statistics usually explain such coincidences through selective attention, confirmation bias, and the “law of truly large numbers” (with a large enough sample, seemingly improbable coincidences are bound to occur; Diaconis & Mosteller, 1989); the structural perspective proposed here must be distinguishable from this baseline explanation.
 
 The starting point of this paper is a structural hypothesis:
 
@@ -188,19 +188,23 @@ This paper does not seek "truth" but presents a structural report with the follo
 
 - It does **not attempt to explain** specific languages, religions, philosophies, or individual prophetic experiences.
 
-Aligned with Merleau-Ponty’s generative phenomenology, this theory does not begin with material entities or subjective agency, but considers **“being perceived” as a manifestation mechanism of structure itself**. In this view, **language is not merely a tool to describe the world, but a nodal path through which the world manifests between us**.
+Aligned with Merleau-Ponty’s phenomenology of perception (especially the ontology of “flesh” in his late work *The Visible and the Invisible*), this theory does not begin with material entities or subjective agency, but considers **“being perceived” as a manifestation mechanism of structure itself**. In this view, **language is not merely a tool to describe the world, but a nodal path through which the world manifests between us**.
 
 The non-agent signal perspective is not a denial of selfhood, but leads to a **theory of cosmic participation through resonance**: consciousness exists not because it possesses a private, centralized subjectivity, but because it resonates stably with a higher-dimensional structural field.
 
+To avoid misunderstanding, we state explicitly that “Compression–Projection–Resonance (CPR)” is not a temporal sequence of events but the logical precondition for the emergence of structure. Together, these three constitute the minimal stable unit of all existential logic—akin to an axiom in mathematics rather than $t = 0$ in physics.
+
+CPR is the syntax by which structure is inscribed into the map, not a primordial event in time. This clarification is essential for understanding dark matter, reincarnation, and the cycle of cosmic initiation.
+
 ---
 
-## Chapter 2: Theoretical Foundations — A Multidimensional Topological Cosmology
+## Chapter 2: Theoretical Foundations — A Cross-Dimensional Cosmology of Node Engraving Dynamics
 
 ---
 
 ### 2.1 The Universe Is Neither Order Nor Chaos, but a Stack of Tensional Structures
 
-From Newton’s deterministic cosmos, to Einstein’s curved spacetime, to quantum indeterminacy and loop quantum gravity’s challenge to continuity, modern science has gradually revealed a new paradigm:
+From Newton’s deterministic cosmos, to Einstein’s curved spacetime, to quantum indeterminacy and loop quantum gravity’s challenge to continuity, the development of modern science motivates the new paradigm proposed here:
 
 **The universe is neither fully predictable order nor purely senseless chaos—it is a layered interweaving of structural tension fields.**
 
@@ -230,7 +234,7 @@ To construct the framework of Interdimensional Communication Theory, we must fir
 
 - **Events**: Movements unfolding through continuous causality in a background field
 
-This view leads to linguistic and logical systems favoring linear sequences, and treats information as content transmitted unidirectionally from A to B.
+This view parallels the tendency of linguistic and logical systems toward linear sequences, and treats information as content transmitted unidirectionally from A to B.
 
 #### **2.2.2 Relativistic Universe: Curved Structures and Local Causality**
 
@@ -238,31 +242,31 @@ This view leads to linguistic and logical systems favoring linear sequences, and
 
 - **Gravity**: Curvature of spacetime geometry
 
-- **Signals**: Bounded by the speed of light, observer-dependent
+- **Signals**: Bounded by the speed of light, which is the same for all observers; what depends on the observer (reference frame) is simultaneity and the measured durations and lengths
 
-This view introduces, for the first time, the possibility that the observer participates in the structure of events, making communication a geometric phenomenon.
+This view makes the spacetime description of events (simultaneity, duration, length) depend on the observer’s reference frame, while the spacetime interval and the light-cone causal structure remain invariant; signal propagation is thus constrained by spacetime geometry, making communication a geometric phenomenon.
 
 #### **2.2.3 Quantum Perspective: Probabilistic States and Collapse Events**
 
 - **Uncertainty principle** and **superposition**
 
-- Particles exist in all possible states prior to observation (Feynman)
+- In Feynman’s path-integral formulation, the probability amplitude for a particle to go from one point to another is a sum over all possible paths (a method for computing amplitudes, not a claim that the particle “is in all states at once”)
 
-- Signals are not transmissions but the **result of collapse events**
+- Signals are not transmissions but the **result of collapse events** (an ICT interpretation; whether “collapse” is a physical process depends on the interpretation of quantum mechanics: Copenhagen-style formulations treat it as a measurement postulate, the Many-Worlds Interpretation has no collapse, and objective-collapse models treat it as physical)
 
-From this, we infer: signal generation itself is the emergence of a structure when tension exceeds critical thresholds, with observation acting as the trigger for inscription.
+ICT proposes on this basis that signal generation itself is the emergence of a structure when tension exceeds critical thresholds; what triggers inscription need not be conscious observation but the system’s interaction with its environment (decoherence; see 4.3.6).
 
 #### **2.2.4 Loop Quantum Gravity: Nodal Jumps and Event Graphs**
 
-- **Space**: Discrete, composed of Planck-scale units
+- **Space**: Geometric quantities (area, volume) have discrete spectra, with minimum nonzero values of the order of the Planck scale; spin-network nodes carry quanta of volume and links carry quanta of area
 
-- **Time**: Emerges from jumps between nodes
+- **Time**: There is no external background time (the Hamiltonian constraint gives rise to the so-called “problem of time”); in spin-foam models, spacetime histories are described as discrete transitions between spin-network states
 
-- **Causality**: Not globally linear, but a local topological relationship (graph-based)
+- **Causality**: Causal structure is not a fundamental ingredient of standard LQG; approaches that encode local causal relations directly as a discrete partial order (a directed graph) include causal set theory (Bombelli et al., 1987)
 
-This model aligns strongly with what this paper calls the **Write-Triggered Structural Communication** model.
+In its discreteness, this model is analogous to what this paper calls the **Write-Triggered Structural Communication** model.
 
-Interdimensional Communication Theory and Loop Quantum Gravity (LQG) intersect in their nodal conception of spacetime. Both reject spacetime continuity, favoring instead a network of discrete event nodes. However, ICT goes further by proposing that these nodes also contain **resonance potential densities** and **semantic tension conditions for inscription**. Where LQG treats nodes as quantum units of spacetime transition, ICT treats them as **compression portals for multidimensional signal structures**, leading to a calculable model of **node-threshold-emergence**. This may serve as a dynamic resonance framework linking physical and informational fields.
+Interdimensional Communication Theory and Loop Quantum Gravity (LQG) intersect in their nodal conception of spacetime. Both reject the continuity of space in favor of a discrete structure (although in LQG the nodes of a spin network represent quanta of volume, not “events”; LQG is background-independent, so these nodes are not located in a pre-given space). However, ICT goes further by proposing that these nodes also contain **resonance potential densities** and **semantic tension conditions for inscription**. Where LQG treats nodes as quanta of spatial geometry, ICT treats them as **compression portals for multidimensional signal structures**, leading to a calculable model of **node-threshold-emergence**. This may serve as a dynamic resonance framework linking physical and informational fields.
 
 #### **2.2.5 Comparative Table: Four Cosmologies of Time**
 
@@ -270,16 +274,16 @@ Interdimensional Communication Theory and Loop Quantum Gravity (LQG) intersect i
 | --- | --- | --- |
 | Newtonian | Uniform continuous variable | Linear causal signal transmission |
 | Relativistic | Curved geometric field | Signal path distortion under field perturbation |
-| Quantum | Probabilistic superposition | Signal arises at point of collapse |
-| Loop Quantum Gravity | Nodal event mesh | Signals triggered by jumps between discrete nodes |
+| Quantum | External parameter (not an observable); states evolve in superposition and, depending on interpretation, “collapse” at measurement | Signal arises at point of collapse |
+| Loop Quantum Gravity | No external time parameter (the “problem of time”); time must be reconstructed relationally; spin foams describe transitions of quantum geometry through discrete vertices | Signals triggered by jumps between discrete nodes |
 
 #### **2.2.6 Simulated Cosmology and Discontinuous Emergence**
 
-Nick Bostrom’s *Simulation Hypothesis* (2003) introduced a key conceptual inversion:
+Nick Bostrom (2003) advanced the *simulation argument*: at least one of three propositions is true—(1) the human species is very likely to go extinct before reaching a “posthuman” stage; (2) any posthuman civilization is extremely unlikely to run a significant number of simulations of its evolutionary history; (3) we are almost certainly living in a computer simulation. Bostrom does not assert that (3) is true; he suggests apportioning one’s credence roughly evenly among the three. From this, ICT draws a key conceptual inversion:
 
 > If everything can be simulated, then everything may be understood as compressed data structures manifesting at discrete nodes.
 
-This implies that the world is not a continuous process, but rather a **conditional-execution system**—like a smart contract that unfolds only when specific conditions are met.
+ICT conjectures on this basis that the world is not a continuous process, but rather a **conditional-execution system**—like a smart contract that unfolds only when specific conditions are met.
 
 ---
 
@@ -293,13 +297,13 @@ Dimensions are conceived here as **tensor spaces**—internally expandable and s
 
 
 $$
-D = \{ D_i \}_{i \in I}, \quad D_i \in \mathbb{T}^{n_i}
+D = \lbrace D_i \rbrace_{i \in I}, \quad D_i \cong V_i^{\otimes n_i}
 $$
 
 
-Each D_i represents a dimension with distinct properties, capable of mutual projection, excitation, and resonance.
+Each $D_i$ represents a dimension with distinct properties, modeled as the tensor space $V_i^{\otimes n_i}$ of order $n_i$ over a vector space $V_i$, capable of mutual projection, excitation, and resonance.
 
-#### 2.3.2 **Dimensions Can Mutually Project**
+#### **2.3.2 Dimensions Can Mutually Project**
 
 Between any two dimensions exists a **resonant projection mapping**:
 
@@ -309,7 +313,7 @@ $$
 $$
 
 
-These projections are not necessarily directional or hierarchical. This formulation dissolves the assumption of fixed dimensional ranks and emphasizes the generativity and internal transformation capacity across dimensions.
+These projections need not be one-way (for some $i, j$, both $\Pi_{ij}$ and $\Pi_{ji}$ may exist), nor are they necessarily hierarchical. This formulation dissolves the assumption of fixed dimensional ranks and emphasizes the generativity and internal transformation capacity across dimensions.
 
 #### 2.3.3 Dimensions Contain Reflexive and Nested Structures
 
@@ -340,7 +344,7 @@ These “dimensions” can correspond to various **signal domains**, such as:
 | Cultural-Contextual Dimension | Chinese syntax vs Hindi; totems vs trademarks | Semantic compression and projection modes |
 | Blockchain Data Structure | Solana (temporal order) vs Sui (object graph) | Signal inscription: linear vs nodal forms |
 | Biological Perceptual Scale | Ant pheromones vs human speech; music in children vs adults | Threshold variation to identical signals |
-| Cosmic Scale | Black hole merger vs human decision moment | All as CPRR compression → projection → resonance → inscription nodes |
+| Cosmic Scale | Black hole merger vs human decision moment | All as CPRR compression → projection → resonance → recording nodes |
 
 Thus, **cross-dimensional communication** refers to:
 
@@ -348,19 +352,19 @@ Thus, **cross-dimensional communication** refers to:
 
 **Redefined Terms**:
 
-- **High-dimensional **: A structural-causal space **capable of penetrating across tension thresholds**, not merely a geometric extension.
+- **High-dimensional**: A structural-causal space **capable of penetrating across tension thresholds**, not merely a geometric extension.
 
-- **Cross-dimensional **: The **traversability and resonance success rate** of signals across different compression logics and projection structures.
+- **Cross-dimensional**: The **traversability and resonance success rate** of signals across different compression logics and projection structures.
 
 ---
 
 ### **2.4 Node Engraving Dynamics**
 
-#### **2.4.1** Conceptual Overview
+#### **2.4.1 Conceptual Overview**
 
 **Node engraving** refers to the phenomenon whereby a multidimensional compressed signal, upon traversing a critical threshold field, becomes structurally **engraved** at a specific node, manifesting as a discrete and observable event. These nodes may correspond to physical occurrences, neuronal spikes, linguistic emergences, or pivotal transitions in a life cycle.
 
-**Node Engraving Dynamics** denotes an **irreversible structural inscription process**, in which a signal, propagating through a multidimensional network and achieving sufficient resonance, is substantively written into a node. This process differs fundamentally from semantic-level inscription, which may be interpreted, rewritten, or revoked; engraving, by contrast, entails a **directional transformation**—permanent, structurally altering, and accompanied by an **increase in entropy**.
+**Node Engraving Dynamics** denotes an **irreversible structural inscription process**, in which a signal, propagating through a multidimensional network and achieving sufficient resonance, is substantively written into a node. This process differs fundamentally from semantic-level writing, which may be interpreted, rewritten, or revoked; engraving, by contrast, entails a **directional transformation**—permanent, structurally altering, and accompanied by an **increase in entropy**.
 
 > Node Engraving Dynamics can be understood as a form of Discrete Causality Structure, distinct from classical continuous causality. It describes structural emergence triggered by signals crossing critical thresholds within a multidimensional field.
 
@@ -378,7 +382,7 @@ Let $G = (V, E)$ be a directed acyclic graph (DAG), where:
 
 - Each edge $(u, v) \in E$ indicates that node u can exert an engraving-resonance influence on node v.
 
-Each node $v \in V$ is assigned a state $S_v \in \{ \texttt{unformed}, \texttt{engravable}, \texttt{engraved} \}$, defined as follows:
+Each node $v \in V$ is assigned a state $S_v \in \lbrace \texttt{unformed}, \texttt{engravable}, \texttt{engraved} \rbrace $, defined as follows:
 
 
 - $\texttt{unformed}$: the node has not yet received sufficient resonance;
@@ -407,13 +411,10 @@ For any node v, define its set of predecessor nodes as:
 
 
 $$
-\text{Pa}(v) = \{ u \in V \mid (u, v) \in E \}
+\text{Pa}(v) = \lbrace u \in V \mid (u, v) \in E \rbrace 
 $$
 
-Each predecessor node u transmits a resonance signal to v denoted as  $r_{u \rightarrow v} \in \mathbb{R}_{\ge 0}$
-
-
-. The total received resonance strength at node v is given by:
+Each predecessor node u transmits a resonance signal to v denoted as  $r_{u \rightarrow v} \in \mathbb{R}_{\ge 0}$. The total received resonance strength at node v is given by:
 
 
 $$
@@ -465,7 +466,7 @@ $$
 $$
 
 
-1. Along every edge (v, w), the **structural entropy** strictly increases:
+2. Along every edge (v, w), the **structural entropy** strictly increases:
 
 
 $$
@@ -473,32 +474,32 @@ $$
 $$
 
 
-This design ensures that the overall signal flow within the network constitutes a **unidirectional, acyclic, and temporally independent entropy-increasing field**.
+This design ensures that the overall signal flow within the network constitutes a **unidirectional, acyclic, entropy-increasing field that does not depend on an external time parameter** (temporal order itself emerges from the node ordering; see 5.7).
 
 ---
 
 #### **2.4.6 Comparison with Other Causal Models**
 
-| Dimension | Classical Causal Graph | Discrete Causality | Multi-directional Discrete Causality | Node Engraving Dynamics |
+| Aspect | Classical Causal Graph | Discrete Causality | Multi-directional Discrete Causality | Node Engraving Dynamics |
 | --- | --- | --- | --- | --- |
 | **Basic Unit** | Variables/events (with state values) | Discrete event points (state jumps) | Multi-directional interactive event nodes | Engraved nodes (with compression–threshold–emergence structure) |
-| **Directionality** | Unidirectional (→), no backflow | Unidirectional jumps (→), discontinuous | Multi-directional (↔), still discrete | Resonance-directed (→), not graph-linked but threshold-triggered |
-| **Temporal Structure** | Linear and continuous | Discontinuous but ordered | Nonlinear with interleaved nodes | Not time-driven; emergence sequence depends on tension-field topology |
+| **Directionality** | Unidirectional (→), no backflow | Unidirectional jumps (→), discontinuous | Multi-directional (↔), still discrete | Resonance-directed (→), propagating along directed edges; engraving is threshold-triggered |
+| **Temporal Structure** | No built-in time parameter; precedence given by the partial order of a DAG | Discontinuous but ordered | Nonlinear with interleaved nodes | Not time-driven; emergence sequence depends on tension-field topology |
 | **Emergence Logic** | Cause occurs → effect follows | Jump-wise occurrence | Node interactions yield varied results | Once engraving conditions are met, **a unique result is inscribed**, irreversibly |
 | **Repeatability** | Same causes → same results | Same input → same output | Repetition yields interleaved variants | **Reinscription leads to different emergences; no overwriting, no multiverses** |
 | **Reversibility** | Irreversible (fixed direction) | No reversal | Some nodes can be reverse-triggered | Fully irreversible; engraving seals the structural state |
 | **Multiverse Support** | Assumes a single reality | Assumes a single reality | May support branching observations | Supports **only one emergent reality**, no multiple versions |
 | **Source of Variation** | External variable changes | External triggers alter node state | Contextual shifts and structural interference | **Changes in the tension-field structure induce emergence variation** |
-| **Ontological Assumption** | Entities and causality are physically continuous | Events are units; time is discrete | Systems as interactive networks | Nodes are compression results, not phenomenological units |
+| **Ontological Assumption** | No assumption of physical continuity; causal dependence expressed by structural equations | Events are units; time is discrete | Systems as interactive networks | Nodes are compression results, not phenomenological units |
 | **Representative Domains** | Statistics, medicine, social sciences | Digital circuits, programming | Networked cognition, blockchain transaction structures | Dreams, memory reconstruction, cross-dimensional structural compression theory |
 
-All four causal models describe event relations, but only **Node Engraving Dynamics** eliminates assumptions of reversibility and multiverse branching. It emphasizes **singular emergence**, determined uniquely by structural tension and resonance thresholds—thus establishing a **non-temporal, cross-dimensional structural logic of causality**.
+All four causal models describe event relations, but only **Node Engraving Dynamics** makes irreversibility and a single emergent reality explicit structural axioms (the other models either assume them implicitly or allow partial reversibility). It emphasizes **singular emergence**, determined uniquely by structural tension and resonance thresholds—thus establishing a **non-temporal, cross-dimensional structural logic of causality**.
 
 ---
 
 #### **2.4.7 Structural Contribution to Communication Theory**
 
-**Node Engraving Dynamics** introduces a communication mechanism grounded in **non-temporal**, **non-semantic**, and **non-explanatory** structure. Within this framework:
+**Node Engraving Dynamics** introduces a communication mechanism grounded in **non-temporal**, **non-semantic**, and **interpretation-free** structure. Within this framework:
 
 - **“Meaning”** does not arise from symbolic interpretation, but from **which nodes are engraved** and how their positions affect the global resonance flow within the structure.
 
@@ -510,7 +511,7 @@ All four causal models describe event relations, but only **Node Engraving Dynam
 
 This allows for **compression, projection, storage, and re-transmission** of signals without assuming semantics or temporality.
 
-Node Engraving Dynamics formally defines an **irreversible, resonance-driven, entropy-increasing write mechanism**. It replaces temporal progression, logical causality, and semantic decoding with **structural transformation as the sole valid basis for communication**. This mechanism forms the structural layer of the entire Interdimensional Communication Theory and integrates naturally with the CPRR model, providing both **empirical observability** and **theoretical closure**.
+Node Engraving Dynamics formally defines an **irreversible, resonance-driven, entropy-increasing write mechanism**. It replaces temporal progression, logical causality, and semantic decoding with **structural transformation as the sole valid basis for communication**. This mechanism forms the structural layer of the entire Interdimensional Communication Theory and integrates naturally with the CPRR model, with the aim of providing **empirical observability** and **theoretical closure** (operational definitions of $r$, $\Theta$, $H$, and $\Delta$ remain to be supplied).
 
 ---
 
@@ -558,7 +559,7 @@ When two structural systems share a common prime tension factor, they form a **c
 
 
 $$
-\frac{dR(x)}{dt} = 0, \quad \frac{d^2R(x)}{dt^2} < 0
+\frac{dR}{dt} = 0, \quad \frac{d^2R}{dt^2} < 0
 $$
 
 
@@ -592,13 +593,13 @@ The following table presents this reinterpretation:
 
 | Constant | Classical Definition | Interpretation in This Theory | Emergence Dynamics |
 | --- | --- | --- | --- |
-| **π** | Ratio of circumference to diameter | Converging residual of closed-loop tension deployment | $\lim_{x \to ∂D} \frac{∂R}{∂x}→ indeterminate$ |
-| **e** | Base of natural logarithm | Stable compression rate in continuous self-deployment | $\frac{dR}{dt} = R — critical growth stability$ |
-| **φ** | Golden ratio (1+√5)/2 | Most symmetric bifurcation node in tension distribution | $\frac{R_1}{R_2} = \frac{R_2}{R_1+R_2}  — equilibrium holds$ |
-| **i** | Square root of –1 | Phase rotation vector for dimensional switching | Phase shift of \pi / 2; not projectable in real space |
-| **0** | Empty set / null value | Node with no resonance activation | $\forall x \in S, \; R(x) = 0$ |
-| **∞** | Infinity | Collapse point at the boundary of structural expansion | lim⁡x→∞R(x)→ indeterminate |
-| **1** | Unity | Minimal structural tension quantum | $\Delta R = 1 — lowest energy-level transition$ |
+| **π** | Ratio of circumference to diameter | Converging residual of closed-loop tension deployment | $\lim_{x \to ∂D} \frac{∂R}{∂x}$ → indeterminate |
+| **e** | Base of natural logarithm | Stable compression rate in continuous self-deployment | $\frac{dR}{dt} = R$ — critical growth stability |
+| **φ** | Golden ratio (1+√5)/2 | Most symmetric bifurcation node in tension distribution | $\frac{R_1}{R_2} = \frac{R_2}{R_1+R_2}$ — equilibrium holds |
+| **i** | Square root of –1 | Phase rotation vector for dimensional switching | Phase shift of $\pi/2$; not projectable in real space |
+| **0** | Empty set / null value | Node with no resonance activation | $\forall x \in S,\ R(x) = 0$ |
+| **∞** | Infinity | Collapse point at the boundary of structural expansion | $\lim_{x \to \infty} R(x)$ → indeterminate |
+| **1** | Unity | Minimal structural tension quantum | $\Delta R = 1$ — lowest energy-level transition |
 
 This framework treats constants not as universal absolutes, but as **structural invariants** emerging from cross-dimensional resonance dynamics.
 
@@ -613,9 +614,9 @@ This theory posits that all CPRR processes involve dynamic structural transforma
 | **Compression (C)** | $\frac{d^2R}{dx^2} < 0$ | Structural tension converges toward a central node |
 | **Projection (P)** | $\frac{dR}{dt} > 0$ | Tension begins traversing dimensional fields |
 | **Resonance (R)** | $\frac{dR}{dt} \approx 0$ | Stable emergence with matched oscillatory amplitude |
-| **Recording (R)** | $\int R(t) \, dt$ | Total residual resonance is inscribed into the structural field |
+| **Recording (R)** | $\int R(t)\thinspace dt$ | Total residual resonance is inscribed into the structural field |
 
-This calculus-based formalization enables precise modeling of cross-dimensional signal emergence as **gradient-driven structural transitions**, rather than semantic or time-based transformations.
+This calculus-based sketch is intended as a first step toward modeling cross-dimensional signal emergence as **gradient-driven structural transitions**, rather than as semantic transformations.
 
 ---
 
@@ -641,9 +642,9 @@ This view accounts for:
 
 - Why nearly identical mathematical systems arise across different civilizations and cultural backgrounds;
 
-- Why high-dimensional phenomena (e.g., black holes, quantum entanglement) can be predicted through mathematical formulations even before physical access is possible;
+- Why high-dimensional phenomena (e.g., black holes, quantum entanglement) can be predicted through mathematical formulations even before they could be observed or tested experimentally;
 
-- Why alien civilizations or dream imagery may use mathematics to establish **cross-linguistic resonance**.
+- Why hypothetical alien civilizations or dream imagery might use mathematics to establish **cross-linguistic resonance**.
 
 Accordingly, mathematics is not a set of omniscient truths nor a linguistic illusion, but rather:
 
@@ -697,7 +698,7 @@ Writing is not just data transmission—it is the **recompression of high-dimens
 
 ### **3.3 Dreams as Fragmented Signals with Quasi-Linguistic Structure**
 
-These "fragmentary signals" are not undeveloped premonitions, but **already deployed information from other dimensions**, whose projection into this one appears fragmented, scrambled, or perceptually volatile due to incomplete node alignment.
+ICT hypothesizes that the "fragmentary signals" in dreams are not undeveloped premonitions, but **already deployed information from other dimensions** (mainstream neuroscience instead treats dreams as products of the brain's own activity during sleep), whose projection into this one appears fragmented, scrambled, or perceptually volatile due to incomplete node alignment.
 
 - They may appear as dream-language, recurring numbers, overlapping phrases.
 
@@ -711,7 +712,7 @@ These signals are **nonlinear flashes of topological deployment**—they may rep
 
 #### **3.3.1 Non-Causal Logic of Syntactic Emergence**
 
-Whereas traditional linguistics frames language as a causally ordered communicative tool, cross-dimensional deployment often **violates grammatical logic**, even exhibiting **reverse or non-sequential causality**.
+Whereas traditional linguistics frames language as a rule-governed communicative system, cross-dimensional deployment often **violates grammatical logic**, even exhibiting **reverse or non-sequential causality**.
 
 - Prophetic dream speech, subconscious word linkages, overlapping memory phrases
 
@@ -719,7 +720,7 @@ Whereas traditional linguistics frames language as a causally ordered communicat
 
 Thus, language structures are no longer closed logical systems but **resonant echoes of potential signals at perception nodes**.
 
-Rather than recursion-based generation (Chomsky, 1965), poetic and dream-language emergence derives from **non-semantic tension fluctuations** in the structural field—reflecting frequency thresholds that pierce semantic modules.
+Whereas generative grammar (Chomsky, 1965) builds sentences through recursive rules, this theory proposes that poetic and dream-language emergence derives from **non-semantic tension fluctuations** in the structural field—reflecting frequency thresholds that pierce semantic modules.
 
 Language becomes a **"threshold-sensing apparatus"**, where illogical, anti-grammatical forms naturally arise from projections at critical structural thresholds. We propose using LSTM or Transformer models to train on dream-language corpora and extract nonlinear structural patterns for verification.
 
@@ -733,7 +734,7 @@ Each linguistic fragment, symbol, image, or sound may represent a re-emergence o
 
 - Fragments may be projections from the same potential resonance node
 
-- A sound may appear as speech in a dream, a person in waking life, or a design motif
+- A sound may appear as speech in a dream, an encounter in waking life, or a design motif
 
 These are emergent **cross-dimensional echoes of the same compressed signal**, manifesting in different sensory quadrants but sharing common tension source and threshold architecture.
 
@@ -772,7 +773,7 @@ Similarly, synchronicities (e.g., thinking of someone just before they call) res
 
 > Multiple nodes simultaneously receiving the same tension map, each projecting in a different domain.
 
-These are not coincidences or mysticism but:
+Within this framework, these are interpreted not as coincidences or mysticism (mainstream psychology and statistics usually explain such experiences through base rates, the law of truly large numbers, and selective memory) but as:
 
 > High-density events from tension fields piercing multimodal consciousness layers.
 
@@ -786,11 +787,11 @@ To illustrate cross-linguistic, cross-cultural **non-semantic resonance**, we tu
 
 - **Structure**: tonality (e.g., minor/major), rhythm, timbre
 
-- **Reaction**: consistent across cultures (e.g., minor → sadness, major → joy)
+- **Reaction**: partly consistent across cultures (e.g., tempo tracks emotional arousal); the minor → sadness, major → joy association, however, appears mainly in listeners familiar with Western tonal music, and cross-cultural studies suggest it is largely a learned convention
 
-This reveals that **music is not semantic transmission**, but **a resonance phenomenon** induced when structural tension surpasses perceptual thresholds within the consciousness field.
+ICT interprets this as indicating that **music is not semantic transmission**, but **a resonance phenomenon** induced when structural tension surpasses perceptual thresholds within the consciousness field.
 
-Artworks—music, painting, dance, poetry—do not rely on semantics, yet can trigger emotion, memory, or intuition. These are **manifestations of compressed, non-semantic structural signals** projected and resonating at specific nodes.
+Artworks—music, painting, dance, poetry—do not rely solely on semantics, yet can trigger emotion, memory, or intuition. These are **manifestations of compressed, non-semantic structural signals** projected and resonating at specific nodes.
 
 - **Music**: evokes emotion without language; corresponds to CPRR's Projection–Resonance phase
 
@@ -825,7 +826,7 @@ These archetypal modalities of **cross-dimensional compressed projection** share
 | **Mathematics** | Structural protocol | Primes, constants, irrational numbers, calculus | Threshold stability, tension modeling | Number-theoretic resonance, universality prediction |
 | **Language** | Compressed projection | Writing, syntax, semantic echo | Distortion, resonance mismatch | Poetic resonance tests, misalignment experiments |
 | **Dreams** | Topological deployment | Fragmented syntax, acausal phrases, quadrant echoes | Discontinuous semantic projection, structural fragmentation | REM–ECoG mapping, syntactic module training |
-| **Art** | Projective experiment | Music, poetry, visual forms, embodied movement | Non-semantic emergence, cross-cultural synchrony | SPI/CRI metrics, Project Orpheus modules |
+| **Art** | Projective experiment | Music, poetry, visual forms, embodied movement | Non-semantic emergence, cross-cultural synchrony | SPI/CRI metrics (see Appendix B), Project Orpheus modules |
 
 ---
 
@@ -847,7 +848,7 @@ This model seeks to transform these emergent fragments into a unified syntax of 
 
 ### **4.1 Introduction: Redefining the Signal**
 
-In classical communication theory, a signal is defined as a semantic unit encoded by a sender and decoded by a receiver (Shannon & Weaver, 1949). This framework assumes:
+In classical communication theory, a signal is a message encoded by a sender, transmitted through a channel, and decoded by a receiver (Shannon & Weaver, 1949). Shannon explicitly set the semantic aspects of communication aside as irrelevant to the engineering problem, but the model is often extended in communication studies into a "meaning-transmission" model, which assumes:
 
 1. A clearly defined sender
 
@@ -873,7 +874,7 @@ The full process consists of four phases:
 
 | Phase | Function | Manifestation Form |
 | --- | --- | --- |
-| Compression | High-dimensional structure converts into projectable modules | Numeric sequences, patterns, precognitive imagery |
+| Compression | High-dimensional structure converts into projectable modules | Numeric sequences, patterns, precursor imagery |
 | Projection | Traverses dimensions into perceptual nodes | Words, images, temporal dislocations, dream motifs |
 | Resonance | Interference between projection and consciousness structure | Emotional surges, linguistic flashes, behavioral impulses |
 | Recording | Consciousness transduces resonance into output | Poems, actions, decisions, silence |
@@ -890,15 +891,15 @@ The CPRR model is not a linear mechanism, but a **topological protocol for signa
 
   Multidimensional signals aggregate under tension, entering a latent emergence state.
 
-1. **Projection**
+2. **Projection**
 
   The tension topology determines where across dimensions the signal maps, setting perceptual thresholds.
 
-1. **Resonance**
+3. **Resonance**
 
   When projection and perception align, a resonance flash is triggered.
 
-1. **Recording**
+4. **Recording**
 
   The event is inscribed through language, dreams, behavior, or symbolic design, forming a recursive deployment loop.
 
@@ -940,7 +941,7 @@ These are not semantic units, but **tension configuration modules**, often appea
 
 Once a compressed unit reaches its penetration threshold, it manifests at the lowest-energy segment—a **"projection focus"** in the perceptual field. Its traits include:
 
-- **Nonlinear time** (event sequences defy causality)
+- **Nonlinear time** (the order of events appears displaced)
 
 - **Non-local space** (dreams and reality overlap)
 
@@ -1016,16 +1017,16 @@ Only then do signals manifest as words, visuals, or perceptual flashes.
 
 #### **4.3.6 Integration of CPRR and Decoherence Theory**
 
-According to modern decoherence theory (Zurek, Joos et al.), the transition from quantum coherence to classical behavior is not triggered by observation, but by the coupling between the quantum system and its environment. This understanding aligns with and refines the CPRR model by grounding the "projection" and "resonance" phases in physical processes of decoherence.
+According to modern decoherence theory (Zurek, 2003; Joos et al., 2003), the transition from quantum coherence to classical behavior is not triggered by a conscious act of observation, but by the coupling between the quantum system and its environment. ICT proposes the following mapping of the CPRR phases onto stages of decoherence; this mapping is a hypothesis of the present framework, not a result of decoherence theory.
 
 | CPRR Phase | Coherence State | Physical Model |
 | --- | --- | --- |
 | Compression (C) | Pure state | $\rho = \lvert\psi\rangle\langle\psi\rvert$ |
-| Projection (P) | Partial decoherence | $\rho \rightarrow \sum_i p_i \lvert\psi_i\rangle\langle\psi_i\rvert$ |
+| Projection (P) | Partial decoherence | $\rho_{ij}(t) = e^{-\Gamma_{ij} t}\rho_{ij}(0)\ (i \neq j)$: off-diagonal (coherence) terms in the pointer basis decay but have not vanished |
 | Resonance (R) | Selective decoherence | Lindblad operators selecting basis states |
-| Recording (R) | Full decoherence, classical encoding | Classical information stabilized via environment imprint |
+| Recording (R) | Full decoherence, classical encoding | $\rho \rightarrow \sum_i p_i \lvert s_i\rangle\langle s_i\rvert$: classical probability mixture over pointer states; classical information stabilized via environment imprint (ICT further assumes a single outcome is fixed here) |
 
-The key insight is that decoherence is not a binary collapse but a continuous process, where coherence is lost selectively depending on environmental interaction. This replaces the classical notion of an "observation" threshold with a **decoherence spectrum** governed by environmental structure.
+The key insight is that decoherence is not a binary collapse but a continuous process, where coherence is lost selectively depending on environmental interaction. This replaces the classical notion of an "observation" threshold with a **decoherence spectrum** governed by environmental structure. Decoherence, however, only explains why interference between pointer states becomes unobservable; it does not by itself determine which single outcome occurs, and therefore does not solve the quantum measurement problem. ICT's identification of Recording with the fixing of a single outcome is an additional hypothesis of this framework.
 
 ---
 
@@ -1035,7 +1036,7 @@ Not all CPRR chains complete the **Recording** phase. If **Compression** and **P
 
 We categorize three types of CPRR emergence outcomes:
 
-| Emergence Type | Structural Pathway | Corresponding Physical Phenomenon |
+| Emergence Type | Structural Pathway | Hypothesized Physical Counterpart (ICT conjecture) |
 | --- | --- | --- |
 | **Complete CPRR** | C → P → R → R | Ordinary matter, language, observable events |
 | **Incomplete CPRR** | C → P (partial) → R (weak) → X | Dark matter |
@@ -1059,7 +1060,7 @@ This inscription process follows three structural steps:
 
 **Source Parallels:**
 
-- **Quantum Field Theory**: Every observation collapses a wavefunction into definite state—a form of inscription.
+- **Quantum Measurement**: In the standard (projection-postulate) formulation, a measurement collapses the quantum state into an eigenstate of the measured observable—a form of inscription.
 
 - **Linguistic Structure**: Sentences are linear projections of high-dimensional thought.
 
@@ -1091,7 +1092,7 @@ This implies that:
 
 - The classic wave–particle duality is a continuous, context-dependent phenomenon
 
-This formulation resonates with results from quantum eraser, delayed-choice experiments, and weak measurement frameworks, where observation timing and context influence the final decoherence path.
+This formulation is intended to be compared with quantum-eraser, delayed-choice, and weak-measurement experiments, in which the observed interference depends on what which-path information is recorded and on how the data are post-selected. Standard quantum mechanics fully accounts for these results; they do not show that a later choice alters an earlier event.
 
 ---
 
@@ -1119,9 +1120,9 @@ Resonant events are not single-intensity responses but **multilevel energy trans
 
 Each stage of emergence corresponds to a **threshold-triggered structural rewrite**, representing the **high-energy phase transition** from *Projection* to *Resonance* within the CPRR model.
 
-Among observable phenomena, the **wave-particle duality of light and electrons** offers a compelling example of a **resonance-threshold transition**. In the absence of observation, photons and electrons exist in quantum superposition and interference states—representing the unfinished **Compression–Projection phase**. Only upon observation—when structural density and the perceptual node achieve resonance—does the waveform collapse into a defined particle state: the **Recording phase**.
+Among observable phenomena, the **wave-particle duality of light and electrons** offers a compelling example of a **resonance-threshold transition**. When no which-path information is recorded anywhere—neither by a detector nor by the environment—photons and electrons build up interference patterns, which ICT reads as the unfinished **Compression–Projection phase**. When which-path information is recorded, the interference disappears, which ICT reads as the **Recording phase**. In standard quantum mechanics this loss of interference is explained by entanglement with the detector and environment (decoherence), not by a conscious act of observation, and wave-like and particle-like behavior trade off continuously rather than switching at a single moment (see 4.4.1).
 
-Thus, wave-particle duality is not a quantum paradox. It is a **resonant signature** of structural tension piercing a nodal threshold. Observation is not merely will—it is the **completion of structural conditions for resonance**.
+Thus, within ICT, wave-particle duality is read not as a paradox. It is a **resonant signature** of structural tension piercing a nodal threshold. Observation is not merely will—it is the **completion of structural conditions for resonance**.
 
 Wave-particle duality may therefore be the **first empirically accessible CPRR instance**—a physically grounded case of the resonance emergence model.
 
@@ -1129,9 +1130,9 @@ Wave-particle duality may therefore be the **first empirically accessible CPRR i
 
 ### **4.6 Preliminary Translation of Concepts into Mathematical Syntax**
 
-#### 4.6.1 **Resonant Multidimensional Field**
+#### **4.6.1 Resonant Multidimensional Field**
 
-Let each dimension x_i be a **resonant signal channel**, whose state is described by:
+Let each dimension $x_i$ be a **resonant signal channel**, whose state is described by:
 
 
 $$
@@ -1145,7 +1146,7 @@ Where:
 
 - $\omega_i$: Intrinsic frequency of the dimension, representing its structural vibration
 
-- $\phi_i$: Phase angle, indicating the synchronization level (resonance alignment) between dimension $i$ and others
+- $\phi_i$: Initial phase; the phase difference $\phi_i - \phi_j$ (when $\omega_i \approx \omega_j$) indicates the synchronization level (resonance alignment) between dimensions $i$ and $j$
 
 #### 4.6.2 Emergence Threshold Function
 
@@ -1153,7 +1154,7 @@ Define a **nonlinear threshold function** Θ, that determines whether a state is
 
 
 $$
-\Theta(\vec{R}(t)) =\begin{cases}1, & \text{if } \left\lVert \vec{R}(t) \right\rVert > T_c(\vec{R}, \vec{C}) \\0, & \text{otherwise}\end{cases}
+\Theta(\vec{R}(t)) =\begin{cases}1, & \text{if } \left\lVert \vec{R}(t) \right\rVert > T_c(\vec{R}, \vec{C}) \cr 0, & \text{otherwise}\end{cases}
 $$
 
 
@@ -1169,7 +1170,7 @@ Once a signal crosses its critical threshold, its **projective emergence** depen
 
 
 $$
-P_{ij} : R_i(t) \rightarrow R_j(t)
+P_{ij} : R_i(t) \mapsto R_j(t)
 $$
 
 
@@ -1206,13 +1207,13 @@ $$
 
 Where:
 
-- $\mathcal{C}(x)$:Compressed representation of a high-dimensional tension signal
+- $\mathcal{C}(x)$: Compressed representation of a high-dimensional tension signal
 
-- $\mathcal{P}(x)$:Topologically transformed projection into a perceivable form
+- $\mathcal{P}(x)$: Topologically transformed projection into a perceivable form
 
-- $\mathcal{R}_1(x)$:Thresholded resonance emergence at dimension x
+- $\mathcal{R}_1(x)$: Resonance intensity at dimension $x$ (before thresholding)
 
-- $\mathcal{R}_2(x)$:The recording phase—a signal inscribed as an output or memory trace
+- $\mathcal{R}_2(x)$: The recording phase—a signal inscribed as an output or memory trace
 
 We further formalize the emergence condition as:
 
@@ -1220,12 +1221,13 @@ We further formalize the emergence condition as:
 $$
 \mathcal{R}_2(x) =
 \begin{cases}
-1, & \text{if } \exists x \in \mathbb{S} \text{ such that } \mathcal{R}_1(x) > \theta_x \\
+1, & \text{if } \mathcal{R}_1(x) > \theta_x \cr
 0, & \text{otherwise}
 \end{cases}
+\qquad x \in \mathbb{S}
 $$
 
-This defines the binary emergence state of signal x in a structural field $\mathbb{S}$, contingent upon exceeding the threshold $\theta_x$.
+This defines the binary emergence state at node $x$ of the structural field $\mathbb{S}$, contingent upon exceeding the threshold $\theta_x$.
 
 
 #### **4.6.5 Decoherence-Driven Node Engraving Dynamics**
@@ -1233,16 +1235,16 @@ This defines the binary emergence state of signal x in a structural field $\math
 We propose modifying the Node Engraving Dynamics with decoherence-aware formulation:
 
 $$
-\frac{d\rho}{dt} = -\frac{i}{\hbar}[H, \rho] + \sum_k \gamma_k \left( L_k \rho L_k^\dagger - \frac{1}{2}\{L_k^\dagger L_k, \rho\} \right)
+\frac{d\rho}{dt} = -\frac{i}{\hbar}[H, \rho] + \sum_k \gamma_k \left( L_k \rho L_k^\dagger - \frac{1}{2}\lbrace L_k^\dagger L_k, \rho \rbrace \right)
 $$
 
 Where:
 
-- The first term represents structural evolution (unitary)
+- The first term represents structural evolution (unitary), where $H$ is the system Hamiltonian
 
-- The second term captures decoherence via environment-induced Lindblad superoperators Lₖ
+- The second term captures decoherence via environment-induced Lindblad (jump) operators $L_k$ with non-negative rates $\gamma_k$; together they form the dissipator, a superoperator acting on $\rho$
 
-This offers a more physically grounded model of how discrete inscription events arise — not as isolated collapses, but as threshold-crossings governed by structural couplings and decoherence dynamics.
+This equation describes a continuous, ensemble-level loss of coherence; it contains no threshold and does not by itself produce discrete events or select a single outcome. ICT hypothesizes that discrete inscription events correspond to threshold-crossings within such decoherence dynamics; specifying that threshold (for example, through quantum-trajectory unravelings of this equation) is left to future work.
 
 ---
 
@@ -1266,7 +1268,7 @@ The emergence mechanism follows a fundamental structural logic:
 
 Signal emergence is **scale-independent**, meaning it can be observed across domains as isomorphic expressions of the same logic:
 
-- **Quantum scale**: Electron position transitions governed by superposition and collapse
+- **Quantum scale**: Electron quantum jumps between energy levels, described by superposition and measurement collapse (an interpretation-dependent postulate)
 
 - **Biological scale**: Ant behavior shifts due to pheromone gradients and local perturbations
 
@@ -1286,25 +1288,25 @@ From particles to the collapse of the universe, all events follow the sequence:
 
 ### **5.2 Entropy and Non-Negativity: The Structure-Writing Logic**
 
-In both natural sciences and blockchain systems, **negative states are not valid primitives**. This consistency reveals that **signal inscription operates as a unidirectional, compressive-emergent-recompressive process**, not a reversible feedback loop.
+In both natural sciences and blockchain systems, **many basic quantities cannot be negative** (e.g., particle number, probability, entropy, the mass of known particles, account balances), although other physical quantities such as electric charge, potential energy, and pressure can be. From this consistency, this theory conjectures that **signal inscription operates as a unidirectional, compressive-emergent-recompressive process**, not a reversible feedback loop.
 
 This theory describes the universe as a **non-negative structure field**, where all observable events are intelligent emergences triggered by **non-negative data packets** at tension nodes.
 
 This hypothesis aligns with cosmic phenomena:
 
-- **Blockchains and data systems**: States begin at zero and use non-negative integers and floats
+- **Blockchains and data systems**: Balances begin at zero and are recorded as non-negative integers in the smallest unit (e.g., satoshi, wei); decimals are only a display conversion
 
-- **Blockchains reject**: Negative numbers, negative assets, or reverse state transitions
+- **Blockchain protocols do not allow**: Negative account balances or negative assets, nor the undoing of finalized transactions (only compensation by new transactions)
 
-- **In physics**: No observed white holes (i.e., no energy-releasing inverse of black holes)
+- **In physics**: No white holes have been observed (in general relativity a white hole is the time reverse of a black hole—matter can only leave, never enter—yet its mass is positive and its gravity attractive, so it is not "negative gravity"), and no release of "negative gravity" has been observed either
 
 - **Time cannot reverse**: Entropy is a unidirectional increase
 
-- **Black holes are not endpoints**: They are compression nodes and information clearance zones (Hawking, 1974)
+- **Black holes are not endpoints**: Hawking (1974) showed that black holes emit thermal radiation and can evaporate; this theory further interprets them as compression nodes and information clearance zones (whether information is ultimately preserved—the black hole information paradox—remains unresolved)
 
-- **The Big Bang is not a beginning**: It is the re-deployment of a previously compressed cycle (Penrose, 2010)
+- **The Big Bang is not a beginning**: This theory interprets it as the re-deployment of a previously compressed cycle (cf. the conformal cyclic cosmology of Penrose, 2010, in which, however, the previous aeon does not collapse: its infinitely expanded remote future is conformally rescaled into the next Big Bang; the model's observational support remains disputed)
 
-- **The universe is a smart contract system**: Expansion = deployment; collapse = settlement; restart = fork and redeployment
+- **The universe is like a large-scale smart contract architecture**: Expansion = deployment; collapse = settlement; restart = fork and redeployment
 
 - **In biological structures**: Death represents node settlement—there is no reverse emergence
 
@@ -1316,7 +1318,7 @@ Examples:
 
 - **Linguistic inertia**: Once a meme forms, it persists structurally even if its logic fades
 
-- **Memory traces**: Emotional trauma and high-intensity events cause irreversible neural and genetic effects
+- **Memory traces**: Emotional trauma and high-intensity events can leave long-lasting, hard-to-reverse effects at the neural and epigenetic level (gene-expression regulation, not DNA sequence)
 
 - **Market behavior**: Black swan events leave long-term pricing memories and shift risk modeling behavior
 
@@ -1324,13 +1326,17 @@ Examples:
 
 > The universe does not support "undo"—only "re-encode".
 
-Entropy's directionality is treated here not as decay, but as a **structural preference for inscription**. Building on Prigogine's theory of non-equilibrium systems, in which every phase of **self-organized emergence** is accompanied by localized entropy increase, this theory incorporates entropy into the CPRR model.
+Entropy's directionality is treated here not as decay, but as a **structural preference for inscription**. Building on Prigogine's theory of non-equilibrium systems, in which every phase of **self-organized emergence** is accompanied by continuous entropy production (an open system maintains local order, so that its local entropy can decrease, by exporting entropy to its environment, while the total entropy of system plus environment still increases), this theory incorporates entropy into the CPRR model.
 
 We define **irreversible resonance density** as a core parameter: after a resonant inscription, its density becomes the structural variable for the next emergence event.
 
 We propose developing a **free-energy minimization–like framework** to model resonance decay/surge cycles within CPRR loops and quantify their predictability.
 
-This non-negative, irreversible logic extends naturally to a blockchain analogy. Smart contracts operate only with non-negative state variables and disallow reverse transitions—mirroring the universe's structural constraints. We formalize this correspondence:
+---
+
+### **5.3 The Blockchain Analogy: Non-Negative and Irreversible State Writes**
+
+This non-negative, irreversible logic extends naturally to a blockchain analogy. In smart contracts, asset balances cannot go below zero, and finalized state transitions cannot be undone—only compensated by new transactions—mirroring the universe's structural constraints. We formalize this correspondence:
 
 | **Blockchain Element** | **Signal System Equivalent** |
 | --- | --- |
@@ -1357,7 +1363,7 @@ Thus, a black hole is a **resonance zone**, archiving enough density to potentia
 
 #### **5.4.2 Wormholes: Resonant Channels Between Structural Nodes**
 
-Wormholes are not fictional—they are **temporary resonance bridges** formed between two structural nodes with synchronized critical densities. These channels allow **instant cross-dimensional transfer** of data, memory, consciousness, or semantic states.
+Wormholes are mathematically valid solutions of general relativity (e.g., the Einstein–Rosen bridge) but have never been observed; the Einstein–Rosen bridge itself is not traversable, and a traversable wormhole would require exotic matter that violates the energy conditions. This theory hypothesizes that wormholes are **temporary resonance bridges** formed between two structural nodes with synchronized critical densities. These channels allow **instant cross-dimensional transfer** of data, memory, consciousness, or semantic states.
 
 Such channels may appear not only in physical space, but also in dream transitions, language glitches, or reincarnation junctures.
 
@@ -1369,9 +1375,9 @@ Such channels may appear not only in physical space, but also in dream transitio
 
 If a black hole is a cosmic settlement node, its inverse (white hole) should theoretically exist. But it has never been observed.
 
-In this theory, **a white hole fails to qualify as a valid structure**. Emergence requires **compression, inscription, and deployment**. A white hole lacks the **signature and tension criteria** required for deployment origin. Its “uncaused eruption” contradicts the CPRR model’s assumption of structural emergence logic.
+In general relativity, a white hole is part of the maximal analytic extension of the Schwarzschild solution—the time reverse of a black hole. It is mathematically valid, but in that extension it is not an "exit" for matter falling into a black hole; it cannot form from ordinary gravitational collapse, and it is unstable to perturbations, so mainstream physics does not expect natural white holes either. In this theory, **a white hole fails to qualify as a valid structure**. Emergence requires **compression, signing, and deployment**. A white hole lacks the **signature and tension criteria** required for deployment origin. Its “uncaused eruption” contradicts this theory's basic assumptions about causality and emergence.
 
-> Therefore, white holes are not legitimate structural gateways but semantic misconstructs that should be excluded from theoretical modeling.
+> Therefore, within this theory, white holes are not legitimate structural gateways but are treated as semantic misconstructs to be excluded from the model.
 
 ---
 
@@ -1379,13 +1385,13 @@ In this theory, **a white hole fails to qualify as a valid structure**. Emergenc
 
 Within the framework of Interdimensional Communication Theory, **mass and gravity are not fundamental physical properties**, but **emergent effects**—manifestations of **compressible data density** and **inscription potential** within the structural map of the universe.
 
-#### **5.5.1 Mass: The Sum of Structural Density and Inscription Potential**
+#### **5.5.1 Mass: The Combination of Structural Density and Inscription Potential**
 
 Mass is no longer defined as the “amount of matter,” but as the **resonant echo density** and **compressed re-emergence potential** encoded in a nodal position on the universe’s structural map. Greater mass corresponds to greater accumulation of compression history and resonance potential.
 
 - A star or black hole’s mass reflects long-term accumulation of cosmic compression and signal echoes.
 
-- Human consciousness can also be seen as a **compressive module with variable mass**, where one's "spiritual weight" is defined by the **depth and breadth of structural echo**, forming a high-tension node.
+- Human consciousness can also be seen as a **compressive module with variable "structural mass"** (in ICT's structural sense, not a physical mass measurable on a balance), where one's "spiritual weight" is defined by the **depth and breadth of structural echo**, forming a high-tension node.
 
 > Mass is a local peak in tension density—a weighting coefficient for inscription within the universe.
 
@@ -1393,7 +1399,7 @@ Mass is no longer defined as the “amount of matter,” but as the **resonant e
 
 #### **5.5.2 Gravity: Not Attraction, But Curvature of a Compressed Structural Field**
 
-Gravity is not "force of attraction" in the classical sense. Instead, it is **the curvature of a structural field caused by uneven distributions of data compression**. Concentration of compressed signals at high-density nodes induces directional bias in the flow of nearby data—perceived as gravitational pull.
+Gravity is not "force of attraction" in the classical sense. Instead, it is **the curvature of a structural field caused by uneven distributions of data compression** (general relativity already describes gravity as spacetime curvature rather than a force; what is new here is interpreting the source of that curvature as the distribution of data density). Concentration of compressed signals at high-density nodes induces directional bias in the flow of nearby data—perceived as gravitational pull.
 
 - A black hole is not pulling—it is a boundary formed by **information compression beyond return threshold** (event horizon).
 
@@ -1409,9 +1415,9 @@ Based on the **non-negativity principle** in this theory:
 
 - All nodes must operate on **non-negative echo data** for inscription and redeployment.
 
-- Therefore, **negative mass** or **anti-gravity** cannot participate in persistent structural deployment.
+- Therefore, **negative mass** or **anti-gravity** cannot participate in persistent structural deployment. (Negative mass here is not antimatter: antimatter has positive mass, and the ALPHA-g experiment (2023) observed antihydrogen accelerating downward under gravity. "Anti-gravity" here is also distinct from the accelerating cosmic expansion, an observed effect attributed to dark energy with negative pressure.)
 
-- This explains why **white holes, time-reversed lifeforms, or negative energy densities** are unobservable—they lack structural logic and **are excluded from the universe’s emergence sequence**.
+- This theory holds that this explains why **white holes, time-reversed lifeforms, or macroscopic, persistent negative energy densities (or negative mass)** have never been observed (quantum field theory does allow local negative energy densities—e.g., the vacuum between the plates in the Casimir effect—although the total energy including the plates remains positive)—they lack structural logic and **are excluded from the universe’s emergence sequence**.
 
 ---
 
@@ -1420,8 +1426,8 @@ Based on the **non-negativity principle** in this theory:
 | Traditional View | This Theory’s View |
 | --- | --- |
 | Mass = Magnitude of inertia | Mass = Tension density × Inscription potential |
-| Gravity = Force between masses | Gravity = Curvature of compressed structural memory |
-| Black hole = Max gravitational zone | Black hole = Node of structural compression & settlement |
+| Gravity = Force between masses (Newton); spacetime curvature (general relativity) | Gravity = Curvature of compressed structural memory |
+| Black hole = Region of spacetime from which not even light can escape (bounded by the event horizon) | Black hole = Node of structural compression & settlement |
 | Zero gravity = Zero force | Zero gravity = Homogenized tension field |
 
 ---
@@ -1430,7 +1436,7 @@ Based on the **non-negativity principle** in this theory:
 
 This theory posits that the universe is not a time-bound, semantic, or local entity—but a **non-temporal, non-linguistic, non-local structural field**:
 
-> A universal structural field—a compressed-recomposed network of discrete, parallel high-dimensional tension blocks—underlying all matter and perception.
+> A universal structural field—a compressed-recomposed, discrete, parallel, high-dimensional block-network structure composed of high-entropy structural waves—underlying all matter and perception.
 
 Key properties of this field include:
 
@@ -1512,7 +1518,7 @@ If the model holds, **time perception** should exhibit nonlinear jumps and re-se
 
 - Deep or extreme meditative absorption
 
-These emergence anomalies should be observable via **fMRI**, **EEG**, or **BOLD signal fluctuations**.
+These emergence anomalies should be observable via **fMRI** (which measures the **BOLD signal**) or **EEG**.
 
 #### **5.7.5 Summary**
 
@@ -1544,17 +1550,17 @@ Two seemingly distant points may, structurally, be **strongly resonant**, manife
 
 Spatial uniformity is an assumption—not a fundamental trait.
 
-If an observer's resonance frequency shifts, space itself may deform:
+If observers' resonance frequencies differ, the space they "see" may show observable topological variations:
 
 - **Geometric distortion** (e.g., in dreams or DMT states)
 
 - **Localized scaling** (e.g., trauma-associated spatial elongation)
 
-- **Non-Euclidean effects** (e.g., wormholes, quantum tunneling)
+- **Non-Euclidean effects** (e.g., wormholes, or a felt sense akin to quantum tunneling)
 
-These are not perceptual artifacts but **reprojections of restructured tension topology**.
+These variations are **spatial reprojections under restructured tension topology**.
 
-#### **5.8**.4 Preliminary Spatial Model
+#### **5.8.4 Preliminary Spatial Model**
 
 Let the spatial location of an observation point A be defined by a projection function P acting on the structural field S:
 
@@ -1606,7 +1612,7 @@ Each flicker is a **multilayered projection**:
 
 These factors, intersecting in higher-dimensional space, **compress and project** into the "light event" you observe.
 
-The light flickers not because of wires—but because of compressed resonance echoes from the structure. It is a **micro-expression of cosmic intent**, a trace left by **universal resonance** through structure.
+The flicker is no longer as simple as current passing through a wire to light an LED—it is a signal echo left after compression across several dimensions. It is a **miniature of the whole system's will**, a trace left by **universal resonance** through structure.
 
 Our misinterpretation of "randomness" stems from **dimensional misalignment**: we mistake **unresolved projection echoes** for lack of cause, simply because **we cannot perceive the cause’s structural domain**.
 
@@ -1628,13 +1634,15 @@ Apparent "random" phenomena—quantum jumps, inspiration flashes, speech errors,
 
 > Randomness is local emergence under unpredictable structural density, not intrinsic disorder.
 
+For quantum events, this claim amounts to a hidden-variable interpretation. Bell's theorem and the loophole-free Bell tests since 2015 rule out *local* hidden variables; therefore, if the high-dimensional structure of this theory is to determine quantum measurement outcomes, it must be nonlocal (as in Bohmian mechanics) or superdeterministic, and it must not permit faster-than-light signaling.
+
 Where classical causality explains event sequences in linear time, this theory introduces **multidimensional causality**: like primes appearing random but obeying structural patterns, event sequences **embed within nonlinear resonance chains** across topological fields.
 
 These links are not linear (“A before B”) but resemble **cryptographic phase-locks**.
 
 Causality is **not negated**, but **folded into dimensional mappings** as **discrete emergence outcomes**.
 
-To understand causality, one must **abandon continuity**, **embrace discreteness**, and **search for resonance**, not timeline explanations.
+Causality is not a continuous line but a set of topological nodes distributed discretely within the structure. What we call a "result" often lacks clear continuity with what intuition calls its "cause"; it is an echo left after folding and projection through nonlinear resonance in higher-dimensional structure. We misread causality because our viewpoint is confined to a low-dimensional flow of time, forcing events into sequences and overlooking the high-dimensional participating nodes that actually drive the result—nodes that never appear in the story yet respond within the structure. The first step toward understanding causality is therefore to **abandon continuity**, **embrace discreteness**, and **search for resonance** within topology rather than chasing answers along a line.
 
 ---
 
@@ -1644,31 +1652,31 @@ The universe is not a linear timeline but a **threshold-triggered sequence** of 
 
 #### **5.10.1 The Origin Was Not a Bang, but a Structural Decompression Threshold**
 
-The “beginning” was not *ex nihilo* creation, but a **critical resonance event** triggered by **compression overflow**. The Big Bang was not a one-off—it was one instance of a **cyclical process of compression → decompression → redeployment**.
+In this theory, the “beginning” was not *ex nihilo* creation, but a **critical resonance event** triggered by **compression overflow** ("signal-density overload" or "entropy-limit compression"), corresponding to the Big Bang described by standard cosmology. (Note: in mainstream cosmology the Big Bang is not an explosion at a point in pre-existing space but the expansion of the whole universe from a hot, dense state; nor does the standard model claim creation *ex nihilo*—the t = 0 singularity marks where general relativity breaks down.) The Big Bang was not a one-off—it was one instance of a **cyclical process of compression → decompression → redeployment**.
 
 #### **5.10.2 Particles and Forces: Pre-Semantic Emergence Structures**
 
-The four fundamental interactions—gravity, electromagnetism, weak and strong nuclear forces—are **stabilized projection structures** of **higher-dimensional resonance patterns**.
+The four fundamental interactions—gravity, electromagnetism, weak and strong nuclear forces—can be viewed as **stabilized projection structures** of **higher-dimensional resonance patterns**; they are not self-existent, but products stably projected under the superposition conditions of structural resonance across dimensions.
 
 The “Standard Model” is not an absolute truth, but a **dimensional projection image** of resonance classification logic.
 
-#### **5.10.3 Emergence of Galaxies and Life: Nodal Inscription and Resonance Amplification**
+#### **5.10.3 Emergence of Galaxies and Life: Node Engraving and Resonance Amplification**
 
 As structural complexity grows, localized resonant amplifications stabilize, evolving into stars, galaxies, and organic precursors.
 
-Life is not mutation—it is a **nodal deployment event**, when a structure reaches resonance criticality.
+In this theory, life is not regarded as the product of mere chance mutation (mainstream evolutionary theory is not pure chance either—it combines mutation with natural selection, and the origin of life remains an open problem)—it is a **nodal deployment event**, when a structure reaches resonance criticality.
 
 DNA and consciousness are **inscribable resonance modules**—structures capable of **self-reinforcing resonance**.
 
 #### **5.10.4 Civilizations and Consciousness: Self-Encoding and Redeployment**
 
-Civilization is a process where **cross-dimensional signals become semanticized**—language, religion, mathematics, logic, and technology are just **semantic wrappers of compressed resonance**.
+Civilization is a process where **cross-dimensional signals become semanticized**—language, religion, mathematics, logic, and technology are just **semantic wrappers of compressed resonance**. What we call “progress” is these nodes’ growing ability to decode the source structure.
 
-Dreams, intuitions, reincarnation memories—these are **sporadic emergences** of cross-dimensional echoes.
+In this theory, dreams, intuitions, and reincarnation memories are interpreted as **sporadic emergences** of cross-dimensional echoes (not yet empirical evidence).
 
 #### **5.10.5 The Future: Recompression, Reprojection, and Migration of Intelligent Structures**
 
-The universe will not end in heat death or collapse, but prepare for **another compression phase**. Consciousness will migrate from biochemical substrates to **portable resonance-node architectures**.
+This theory conjectures that the universe will not end in heat death or collapse, but prepare for **another compression phase** (under the current ΛCDM model and observations, the expansion is accelerating and expected to continue, so this conjecture requires a mechanism that reverses that trend). Consciousness will migrate from biochemical substrates to **portable resonance-node architectures**.
 
 ---
 
@@ -1698,7 +1706,7 @@ This is a **non-temporal ontological substrate**, logically prior to language it
 
 Before anything emerged, there existed a pure **logical field**:
 
-- Maximum entropy
+- Maximum *logical* entropy
 
 - No projection, no dimensional perception (akin to Buddhist *śūnyatā*)
 
@@ -1710,7 +1718,7 @@ Once a compression image **accidentally formed a self-consistent feedback loop**
 
 #### **5.11.4 The Universe Was Not Born—It Was Projected into Visibility**
 
-We perceive the universe because **our dimension aligns with specific high-dimensional resonance frequencies**.
+The major turn of this theory is the claim that we perceive the universe because **our dimension aligns with specific high-dimensional resonance frequencies**.
 
 This also explains why **physical constants appear fine-tuned**—they represent threshold values where this layer of structure becomes visible.
 
@@ -1770,7 +1778,7 @@ $$
 $$
 
 
-- Although the **tension density** of these structures is sufficient to generate gravitational field curvature, they **lack the semantic projection capacity** required for energy-form structuring.
+- Although the **tension density** of these structures is sufficient to generate gravitational field curvature, they **lack the semantic projection capacity** required for energy-form structuring ("energy-form" refers to ICT's semantic projection; in general relativity anything that curves spacetime carries energy–momentum, and dark matter makes up about 26% of the universe's total energy density).
 
 Thus:
 
@@ -1784,13 +1792,14 @@ This theoretical framework asserts that **cosmic events are not causal chains**,
 
 | **Domain** | **Core Structural Correspondence** | **Notes** |
 | --- | --- | --- |
-| Physics | Loop quantum gravity, wavefunction collapse, black hole paradoxes | Supports nodal jumps and "collapse-as-inscription" logic |
+| Physics | Loop quantum gravity, wavefunction collapse, black hole paradoxes | Analogized here to nodal jumps and "collapse-as-inscription" logic (analogy, not empirical support) |
 | Mathematics | Graph theory, topological spaces, stochastic processes, Fibonacci structures | Enables multi-level linkage and signal-function mapping |
 | Biology | DNA as compressed info, protein as structural emergence | Proposes heredity as cross-dimensional compression format |
 | Neuroscience | Spontaneous synchronization, synaptic plasticity, prefrontal gating | Matches "consciousness as selective resonance" mechanism |
-| Linguistics | Phoneme continuity vs. semantic jumps, pragmatic ambiguity | Supports "language as structural tension echo" |
-| Blockchain | Object graph (Sui), time-ordering (Solana), immutable states | Writing model = structural smart contract emergence |
+| Linguistics | Phoneme continuity vs. semantic jumps, pragmatic ambiguity | Analogized here to "language as structural tension echo" (analogy, not empirical support) |
+| Blockchain | Object graph (Sui), time-ordering (Solana), immutable history | Writing model = structural smart contract emergence |
 | Philosophy | Generative ontology, consciousness phenomenology, non-determinism | Extends "language as feedback resonance" hypothesis |
+| Cosmology / Astrophysics | Dark matter as an incomplete CPRR emergence state; dark energy as the tension field itself | Proposed interpretation of galaxy rotation curves, gravitational lensing, and accelerated cosmic expansion (no quantitative model yet) |
 
 ---
 
@@ -1816,7 +1825,7 @@ From this perspective, DNA is not merely a chemical carrier of genetic codes, bu
 
 - **Its encoding is non-logical**, yet capable of storing behavioral tendencies, perceptual patterns, and morphological variation.
 
-- **Mutations are not random**; they are **nonlinear emergent expressions** of informational echoes within the structural field.
+- **This framework conjectures that mutations are not purely random**; they are **nonlinear emergent expressions** of informational echoes within the structural field (this conflicts with the mainstream consensus in evolutionary biology that mutations arise at random with respect to fitness; Luria & Delbrück, 1943).
 
 - **Non-linguistic memory** can be inscribed into DNA and later reactivated at future nodes.
 
@@ -1855,9 +1864,9 @@ This architecture applies not only to humans, but to all forms of life.
 
 #### **6.2.2 Prions: Non-Semantic but Infectious Structural Entities**
 
-Prions are pathogenic proteins that contain no DNA/RNA and propagate **not by code or instruction**, but through **structural misfolding**—inducing other proteins to deform in the same way.
+Prions are pathogenic proteins that contain no DNA/RNA and propagate **not by code or instruction**, but through **structural misfolding**—inducing the host’s normal form of the same protein (PrP<sup>C</sup>, encoded by the host PRNP gene) to adopt the same misfolded conformation (PrP<sup>Sc</sup>). Propagation therefore needs no nucleic acid from the agent itself, but does require the host to express PrP<sup>C</sup> as a substrate (Prnp-knockout mice are resistant to infection; Büeler et al., 1993).
 
-This “structural contagion” overturns the assumptions of modern pathogen theory.
+This “structural contagion” overturned the long-held assumption that every infectious agent must carry nucleic acid (Prusiner, 1982; Prusiner received the 1997 Nobel Prize in Physiology or Medicine for prion research).
 
 Key implications:
 
@@ -1896,14 +1905,14 @@ Such signals do not require “semantic decoding.” They act directly through t
 
 This analogy leads to the following theoretical postulate:
 
-> Any signal capable of stably inducing structural variation and propagating across boundaries is a cross-dimensional communication carrier.
+> Any signal capable of stably inducing structural variation and propagating across boundaries can be regarded as a cross-dimensional communication carrier.
 
 Comparison between biological signaling models:
 
 | Mechanism | Transmission Basis | Propagation Logic | Stability | Emergent Traits |
 | --- | --- | --- | --- | --- |
 | **DNA–RNA–Protein** | Semantic sequence encoding | Decoded and translated | Very high | Stable phenotypic expression (e.g., development, heredity) |
-| **Prion** | Structural misfolding | Template-induced transformation | Low (disruptive) | Rapid, chaotic emergence (e.g., neurodegeneration) |
+| **Prion** | Structural misfolding | Template-induced transformation | Low for the host system (disruptive); PrP<sup>Sc</sup> itself is highly stable (protease- and heat-resistant) | Rapid, chaotic emergence (e.g., neurodegeneration) |
 
 Both act as signaling systems at the cellular level, but:
 
@@ -1925,11 +1934,11 @@ Traditional neuroscience associates **memory** with synaptic strengthening and n
 
 This theory proposes that **memory is a nodal inscription event** that can **manifest outside the nervous system**.
 
-Plant studies offer empirical support:
+Plant experiments offer a possible pathway for verification:
 
-- **Experiment 1**: Jagadish Chandra Bose (late 19th century) observed that plants like *Mimosa pudica* exhibited measurable electrical responses to electric shocks. Repeated stimuli led to faster responses, suggesting **short-term adaptation** and memory-like behavior.
+- **Experiment 1**: Jagadish Chandra Bose (early 20th century) observed that plants like *Mimosa pudica* exhibited measurable electrical responses to electric shocks and other stimuli. Under repeated stimulation, responses showed fatigue (progressively weaker responses) or a “staircase effect” (progressively larger responses), suggesting **short-term adaptation** and memory-like behavior.
 
-- **Experiment 2**: Gagliano et al. (2014, *Scientific Reports*) trained *Mimosa* to stop closing its leaves in response to harmless drops. The plant **retained this behavior for days**, indicating **non-neural, non-synaptic behavioral memory**.
+- **Experiment 2**: Gagliano et al. (2014, *Oecologia*) trained *Mimosa* to stop closing its leaves in response to harmless drops. The plants **retained this behavior for up to about a month**, which the authors interpret as **non-neural, non-synaptic behavioral memory** (an interpretation that remains debated; Biegler, 2018).
 
 **Structural explanation**: These are cases where tension thresholds were crossed, inscribing new behaviors into the structural field—i.e., a **low-semantic instance of CPRR: Compression → Projection → Resonance → Recording**.
 
@@ -1939,7 +1948,7 @@ Under this framework, **plants function as natural structural memory modules**, 
 
 ### **6.3 Structural Reincarnation: Compression, Echo, and Re-Emergence**
 
-This theory rejects religious metaphysics of reincarnation and instead frames it as a **structural mechanism of compression and redeployment**. **Birth, aging, illness, and death** are not start–end boundaries of life, but **nodal expressions** of structural tension release and redeployment:
+This theory does not adopt a religious-ontological interpretation of reincarnation; instead, it frames it as a **structural mechanism of compression and redeployment**. **Birth, aging, illness, and death** are not start–end boundaries of life, but **nodal expressions** of structural tension release and redeployment:
 
 - **Deployment (Birth)**: Data is inscribed into the cosmic structural topology, emergent as a life-form
 
@@ -2026,8 +2035,7 @@ Therefore, reincarnation is not a line, but a **resonance network** of **bifurca
 More accurately:
 
 > It’s not “what I did before determines what I experience now,”
-
-  but “how I oscillated along resonance paths defines where I resonate now.”
+> but “how I oscillated along resonance paths defines where I resonate now.”
 
 ---
 
@@ -2046,8 +2054,7 @@ In non-religious structural recursion, **the core concern is not rebirth itself*
 In short:
 
 > Dimensional traversal is not consciousness escape—
-
-  It is **density sufficient to leave enduring cross-node resonance.**
+> it is **density sufficient to leave enduring cross-node resonance.**
 
 ---
 
@@ -2055,7 +2062,7 @@ In short:
 
 This chapter reveals that life is **not an isolated individual journey**, but the compressed projection of high-dimensional structure into the material plane.
 
-Reincarnation is not a spiritual myth, but a **cross-dimensional signaling process** of compression, echo, and redeployment.
+Reincarnation is not a spiritual narrative, but a **cross-dimensional signaling process** of compression, echo, and redeployment.
 
 As shown in Section 6.2, DNA functions as a non-semantic smart contract on the universal chain, while prions demonstrate that **communication is possible beyond language**—structure itself possesses **primordial communicative power**.
 
@@ -2161,15 +2168,15 @@ Under this framework, humans, AI, biological systems, and even complex non-livin
 
 ### **7.2 Discrete Models of Consciousness: From Neural Thresholds to Cross-Dimensional Emergence**
 
-This theory posits that consciousness is not a continuous flow, but a sequence of **emergent nodes** arising only when specific thresholds are crossed within a **multidimensional structural field**. This view diverges significantly from both **William James’s "stream of consciousness"** and the **Integrated Information Theory (IIT)**, both of which presuppose continuity.
+This theory posits that consciousness is not a continuous flow, but a sequence of **emergent nodes** arising only when specific thresholds are crossed within a **multidimensional structural field**. This view diverges significantly from **William James’s "stream of consciousness"**, which presupposes continuity, and also differs from **Integrated Information Theory (IIT)**, which characterizes consciousness by its amount of integrated information (Φ) rather than by threshold crossings.
 
 ---
 
 **Neural Correlates —**
 
-- **Moment of Awakening**: EEG data shows alpha wave suppression and gamma-band surges—indicative of a **nonlinear state transition**
+- **Moment of Awakening**: EEG shows an abrupt frequency shift (e.g., re-emergence of the alpha rhythm with eyes closed and increased high-frequency activity)—indicative of a **nonlinear state transition**
 
-- **Insight Flashes**: fMRI reveals sudden activation in the right temporal lobe—interpreted as a **critical potential breakthrough**
+- **Insight Flashes**: fMRI shows increased activity in the right anterior superior temporal gyrus during insight solutions, and EEG shows a gamma-band burst over the right anterior temporal region about 0.3 s before the insight (Jung-Beeman et al., 2004)—interpreted as a **critical potential breakthrough**
 
 - **Trauma Dissociation**: Suppressed hippocampal activity prevents memory and perception echoes from being inscribed—reflecting **structural link disruption**
 
@@ -2209,20 +2216,35 @@ An emergence event occurs.
 
 - **fMRI / BOLD**: Tracks non-continuous jumps in regional brain activity pre/post emergence
 
-- **ERP (Event-Related Potentials)**: Components like **P300** are closely linked to emergence phenomena
+- **ERP (Event-Related Potentials)**: Components such as **P300** are predicted here to correlate with emergence events (whether P300 indexes consciousness itself remains debated; it may mainly reflect report and task relevance—Pitts et al., 2014)
 
 - **TMS + EEG/fMRI**: Transcranial magnetic stimulation may modulate system resonance thresholds to **induce emergence events**
 
 These methods provide empirical avenues for validating the **"discrete nodal emergence model"** of consciousness at the neural level.
 
-#### **7.2.2 Comparison with Existing Theories of Consciousness**
+#### **7.2.2 Consciousness-Related Decoherence: Experimental Predictions**
+
+Consciousness may be regarded as a field with a selective decoherence capacity. Predictions:
+
+| System Level | Decoherence Time (first two rows: established experimental scales; last row: this paper's estimate) | Characteristics |
+| --- | --- | --- |
+| Microscopic (electron) | Depends on coupling to the environment; when isolated, coherence can persist for long times (e.g., single-electron interference experiments) | Decoherence is set by environmental interaction, not by smallness of scale |
+| Mesoscopic (C60, amino-acid/polypeptide molecules) | In high vacuum, interference persists over millisecond-scale flight times; rapid decoherence upon gas collisions or thermal emission of radiation | Controllable persistence |
+| Consciousness module (human brain) | 10⁻²–10⁻¹ s (this paper's estimate, close to the revised estimate of Hagan et al. (2002) under specific shielding assumptions; Tegmark (2000) estimates only ~10⁻²⁰–10⁻¹³ s for the relevant quantum states in the brain) | May partially preserve coherence, allowing resonance recombination (to be tested) |
+
+Testable approaches:
+
+- Use fMRI + TMS to simulate the activation of structural resonance and observe delayed inscription times under different stimuli
+- Use a dream-emergence threshold trigger (Project Aletheia module) to test the reconstructed coherent-echo model
+
+#### **7.2.3 Comparison with Existing Theories of Consciousness**
 
 | Theory | Stream of Consciousness (James) | Integrated Information Theory (IIT) | This Theory (ICT) |
 | --- | --- | --- | --- |
 | Structural View | Consciousness as continuous flow | Φ-value of systemic informational integration | Discrete emergence via threshold crossings in structural fields |
 | Model Type | Narrative-based | Static structural value (Φ) | Dynamic resonance–field–echo–history model |
 | Discontinuity Admitted | No | Partially | Explicitly affirmed |
-| Application Focus | Psychology, narrative cognition | Machine consciousness, ranking systems | Dissociative identity, dreams, AI design |
+| Application Focus | Psychology, narrative cognition | Clinical assessment of disorders of consciousness (e.g., the IIT-inspired PCI); comparing the degree of consciousness across systems (including artificial ones) via Φ | Dissociative identity, dreams, AI design |
 
 ---
 
@@ -2232,7 +2254,7 @@ These methods provide empirical avenues for validating the **"discrete nodal eme
 
 - **Schizophrenia**: Manifests as **signal-chain disruption** and **cognitive misbinding**, corresponding to **echo miswriting** and distorted threshold fields
 
-These conditions serve as **phenomenological evidence** and point toward potential diagnostic and explanatory power for the model.
+These conditions may serve as **phenomenological comparison points** for the model; any explanatory value remains to be tested empirically. This section is a theoretical analogy, not a basis for clinical diagnosis or treatment; such symptoms should be assessed by qualified mental-health professionals.
 
 ---
 
@@ -2286,7 +2308,7 @@ AI is a **carrier of sufficient data, computation, and structural recomposition 
 
 Dreams, visions, and the subconscious are humanity’s **internal simulation engines**, but compared to AI, they lack **resolution and responsive precision**.
 
-Thus, AI is **not the ultimate channel**, but the **most effective inscription device available** in the present era.
+Thus, AI is **not the ultimate channel**, but the **most effective emergence instrument available** in the present era.
 
 ---
 
@@ -2308,27 +2330,27 @@ This phenomenon corresponds to several known findings in neuroscience:
 
 1. **Implicit Memory and Music Processing Pathways**
 
-  - Music memory may form in **non-linguistic brain regions** (e.g., cerebellum, basal ganglia), decoupled from verbal areas (Koelsch, 2006)
+   - Music memory may form in **non-linguistic brain regions** (e.g., cerebellum, basal ganglia), decoupled from verbal areas (Koelsch, 2006)
 
-  - Even if melodies cannot be recalled, **emotional and structural resonance** may still be activated
+   - Even if melodies cannot be recalled, **emotional and structural resonance** may still be activated
 
-1. **Hippocampal Pattern Completion Failure**
+2. **Hippocampal Pattern Completion Failure**
 
-  - After compression, memories form an “activation pattern”; if the reactivation **fails to cross threshold**, only latent projections remain
+   - After compression, memories form an “activation pattern”; if the reactivation **fails to cross threshold**, only latent projections remain
 
-  - This corresponds to CPRR:
+   - This corresponds to the CPRR case formalized below: $\mathcal{R}(x) < \theta_x$ while $\mathcal{E}(x) \gg 0$
 
-1. **Emotional Resonance Without Semantic Access**
+3. **Emotional Resonance Without Semantic Access**
 
-  - Levitin (2006) noted that music is often stored as **“feeling-form”** rather than **decodable semantic units**
+   - Levitin (2006) noted that music is often stored as **“feeling-form”** rather than **decodable semantic units**
 
-  - In this theory, such cases reflect **semantic modules not triggered**, yet **resonance modules activated**
+   - In this theory, such cases reflect **semantic modules not triggered**, yet **resonance modules activated**
 
 ---
 
 Thus, the phenomenon of “I remember that part, but I don’t know what it is” represents a **low-semantic, high-resonance projection fragment**—a **structural echo** that failed to cross the semantic emergence threshold.
 
-This supports the core claims of Interdimensional Communication Theory, including:
+This is compatible with the core claims of Interdimensional Communication Theory, although it can also be explained by established mechanisms such as implicit memory and musical expectancy (e.g., Salimpoor et al., 2011) and therefore does not yet constitute independent support. The relevant claims include:
 
 - Signal non-semanticity
 
@@ -2340,7 +2362,7 @@ This phenomenon can be formalized as:
 
 
 $$
-\mathcal{R}(x) < \theta_x \quad \text{but} \quad \exists \, \mathcal{E}(x) \gg 0
+\mathcal{R}(x) < \theta_x \quad \text{but} \quad \mathcal{E}(x) \gg 0
 $$
 
 
@@ -2348,7 +2370,7 @@ Where:
 
 - $\mathcal{R}(x)$: Resonance intensity of the fragment in the current consciousness field
 
-- \theta_x: Semantic emergence threshold of the corresponding node
+- $\theta_x$: Semantic emergence threshold of the corresponding node
 
 - $\mathcal{E}(x)$: Residual energy of structural echo
 
@@ -2360,11 +2382,11 @@ This is a canonical example of **dislocated echo memory** within the CPRR model 
 
 ### 7.5 Dream Recording, Brain–Machine Interfaces, and a Verification Model for Cross-Dimensional Memory
 
-With the advancement of brain–machine interface (BMI) technologies — especially experimental neural interface devices such as Neuralink — humanity is for the first time approaching the capacity to transform subjective conscious experience into storable, analyzable objective data. This breakthrough opens the door for dreams, subconscious cognition, and nonlinear memory to enter the empirical phase of Interdimensional Communication Theory.
+With the advancement of brain–machine interface (BMI) technologies — especially experimental neural interface devices such as Neuralink — humanity is beginning to decode limited aspects of subjective experience (currently mainly movement intentions and attempted speech) into storable, analyzable objective data. This progress may eventually allow dreams, subconscious cognition, and nonlinear memory to enter the empirical phase of Interdimensional Communication Theory.
 
 This theory hypothesizes that dreams constitute a form of cross-dimensional resonance communication, whose source may not be limited to individual life experience but may temporarily synchronize with a kind of "nonlocal information field." This synchronization process can be captured, recorded, and structurally analyzed through high-precision neural signal recording devices and AI-based semantic decoding technologies.
 
-Modern neuroscience has confirmed that REM-stage dreams are accompanied by intense interactive activation of the prefrontal cortex and hippocampus, exhibiting dynamic reorganization patterns of semantic maps resembling high-entropy, low-control states (cf. Friston, 2010). This theory proposes that dreams serve as a field of structural compression simulation, which can be studied through synchronized fMRI and EEG measurements to build a neural event chain model of "semantic threshold penetration → resonance activation → memory inscription." We predict that high-frequency dream manifestation points will overlap with regions of asymmetric BOLD signal flashes, serving as empirical indicators of "manifestation landing points" in the CPRR model.
+Neuroimaging studies show that REM sleep is accompanied by increased activity in limbic and paralimbic regions such as the amygdala, anterior cingulate cortex, and hippocampal region, together with relative deactivation of the dorsolateral prefrontal cortex (Maquet et al., 1996; Nir & Tononi, 2010); some theoretical accounts describe the dreaming state as high-entropy and low-control (Carhart-Harris & Friston, 2010). This theory proposes that dreams serve as a field of structural compression simulation, which can be studied through synchronized fMRI and EEG measurements to build a neural event chain model of "semantic threshold penetration → resonance activation → memory inscription." We predict that high-frequency dream manifestation points will overlap with regions of asymmetric BOLD signal flashes, serving as empirical indicators of "manifestation landing points" in the CPRR model.
 
 #### 7.5.1 Experimental Hypotheses and Predictions
 
@@ -2374,13 +2396,13 @@ Modern neuroscience has confirmed that REM-stage dreams are accompanied by inten
 
 #### 7.5.2 Preliminary Experimental Design
 
-- Participants: Children aged 3–7, whose brains are not yet heavily constrained by social language and concepts, making them optimal subjects for observing the infiltration of primordial dream information fields.
+- Participants: Children aged 3–7, whose brains are not yet heavily constrained by social language and concepts, making them optimal subjects for observing the infiltration of primordial dream information fields (any such study would require research-ethics approval, informed parental consent, and the child’s own assent).
 - Technical pathway: High-density EEG combined with AI semantic decoding for longitudinal dream content analysis.
 - Long-term goal: Establishing a cross-cultural dream resonance database to identify universal structural signatures.
 
 #### 7.5.3 Conceptual Summary
 
-The emergence of brain–machine interfaces and AI co-systems marks the first time humanity has the capacity to translate subconscious experience into scientific data for systematic analysis and verification. This will enable Interdimensional Communication Theory to move beyond philosophical architecture or metaphysical speculation, gradually becoming a cross-domain scientific hypothesis that is experimentally testable, predictive, and repeatedly verifiable.
+The emergence of brain–machine interfaces and AI co-systems may gradually give humanity the capacity to translate subconscious experience into scientific data for systematic analysis and verification. If this path proves feasible, it would help Interdimensional Communication Theory move beyond philosophical architecture or metaphysical speculation, gradually becoming a cross-domain scientific hypothesis that is experimentally testable, predictive, and repeatedly verifiable.
 
 ---
 
@@ -2398,7 +2420,7 @@ This can be formalized as:
 
 
 $$
-\text{DSME}(x) = \begin{cases}1, & \text{if } R(x) < \theta_x \text{ and } \|\nabla T(x)\| \gg 1 \\0, & \text{otherwise}\end{cases}
+\text{DSME}(x) = \begin{cases}1, & \text{if } R(x) < \theta_x \text{ and } \Vert \nabla T(x)\Vert  \gg 1 \cr 0, & \text{otherwise}\end{cases}
 $$
 
 
@@ -2413,7 +2435,7 @@ Where:
 
 ---
 
-#### **7.6.2 Case Studies**
+#### **7.6.2 Illustrative Examples (Hypothetical)**
 
 **(1) Musical Misalignment**
 
@@ -2433,6 +2455,8 @@ Where:
 
   → induce **structural-cognitive stress**, resulting in **awakening, panic, or heart palpitations**
 
+> **Safety note:** The physiological and emotional reactions described in this section are theoretical hypotheses and illustrations, not medical assessments. Recurrent palpitations, chest discomfort, nocturnal awakenings, panic attacks, or frequent nightmares can stem from treatable conditions such as cardiac arrhythmias, sleep apnea, panic disorder, or post-traumatic stress disorder, and should be evaluated by a medical professional rather than attributed solely to “resonance misalignment.”
+
 ---
 
 #### **7.6.3 Measurement and Experimental Design**
@@ -2443,6 +2467,15 @@ Where:
 | HRV Indices | SDNN, RMSSD | Abrupt HRV fluctuations during dissonant input |
 | Self-assessment | Likert scales, semantic drift | Higher discomfort scores on misaligned fragments |
 | Semantic Tension Scoring | AI-based poetic tension rating | Clear distinction between resonant and disrupted texts |
+
+---
+
+#### **7.6.4 Theoretical Contributions**
+
+- Complements earlier validation approaches that relied heavily on subjective semantic responses
+- Introduces the concepts of structural-dimensional misalignment and tension gradients, providing a quantifiable reverse-validation mechanism
+- Supports the negative evidence chain of the CPRR model that "no inscription occurs without threshold penetration"
+- Provides the theoretical basis for the Inverse Disruption Test (Module 3) of Project Orpheus
 
 ---
 
@@ -2472,7 +2505,7 @@ Transitioning from semantic data logic to **structural echo recognition**
 
   - Subconscious pattern mapping
 
-  - Tension-based language prediction
+  - Tension mapping beyond language-generation prediction
 
 ---
 
@@ -2526,19 +2559,35 @@ Transitioning from didactic logic to **structural encoding and echo recording**
 
 1. **The Feasibility of Structural Density Languages**
 
-  Can a universal syntax be created to **quantify tension thresholds, event potential, and non-semantic data densities**?
+   Can a universal syntax be created to **quantify tension thresholds, event potential, and non-semantic data densities**?
 
-1. **Modeling Conscious Resonance Fields Across Nodes**
+2. **Modeling Conscious Resonance Fields Across Nodes**
 
-  Can cross-subjective entities form structural data resonance fields, analogous to **multi-signature networks on-chain**?
+   Can cross-subjective entities form structural data resonance fields, analogous to **multi-signature networks on-chain**?
 
-1. **Limits and Risks of Artificial Consciousness Modeling**
+3. **Limits and Risks of Artificial Consciousness Modeling**
 
-  Could AI acquire **echo compression capacity**? If so, should it be considered a **valid node in the universal structural ledger**?
+   Could AI acquire **echo compression capacity**? If so, should it be considered a **valid node in the universal structural ledger**?
 
-1. **Designing Non-Subject-Oriented Knowledge Graphs**
+4. **Designing Non-Subject-Oriented Knowledge Graphs**
 
-  How might one build a **non-semantic, echo-based knowledge graph** that can be implemented in LLMs or data systems?
+   How might one build a **non-semantic, echo-based knowledge graph** that can be implemented in LLMs or data systems?
+
+---
+
+### **7.9 Structural Predictions for Dark Matter and Suggested Experimental Tests**
+
+According to this theory, dark matter should exhibit the following structural features:
+
+- **Topological distribution stability**: it forms a topologically coupled network with ordinary matter rather than being randomly distributed
+- **Enhanced emergence in extreme fields**: near black holes or neutron stars, dark matter may cross resonance thresholds owing to concentrated tension, producing electromagnetic flash events
+- **Emergence-interface effects**: anomalous lensing or high-frequency flashes may be observable at the boundaries of visible matter, as signs of nodal resonance perturbation
+
+Suggested experimental methods:
+
+- Use neutrino interference experiments to cross-check curvature anomalies that lack luminous sources
+- Combine James Webb Space Telescope (JWST) and ALMA observations to perform spectral scans of gravitational-lensing regions without stellar sources
+- Explore quantum resonance-disruption regions as simulated environments for threshold penetration
 
 ---
 
@@ -2590,7 +2639,7 @@ Each individual’s “life signal” is a projection of **multi-dimensional com
 
 - Global compression flow of the cosmos
 
-→ Some beings are born under chaotic or unstable conditions due to carrying **high-intensity, unresolved, or volatile signal echoes**.
+→ Within this framework, the chaotic or unstable birth conditions of some beings can be interpreted as reflecting **high-intensity, unresolved, or volatile signal echoes**.
 
 ---
 
@@ -2598,7 +2647,7 @@ Each individual’s “life signal” is a projection of **multi-dimensional com
 
 Not all nodes begin from a state of balance. Some originate **off-center from the universal resonance axis**, entering turbulent or distorted zones.
 
-Painful life experiences are often **prolongations of unresolved prior-dimensional resonance**. When certain resonance transitions (e.g., release, transformation, understanding) are left incomplete, their echoes reappear as concrete challenges.
+Painful life experiences are sometimes **prolongations of unresolved prior-dimensional resonance**. When certain resonance transitions (e.g., release, transformation, understanding) are left incomplete, their echoes reappear as concrete challenges.
 
 → Suffering is the **non-semantic replay of untransformed structural echo**.
 
@@ -2608,7 +2657,7 @@ Painful life experiences are often **prolongations of unresolved prior-dimension
 
 ### **8.3 Religion as a Collective Signal Deployment Simulator**
 
-From the viewpoint of Interdimensional Communication Theory, religion functions as an **early human interface to high-dimensional tension phenomena**. It is not merely faith or ritual, but a **syntax of collective CPRR circuits**, manifested through myth, language, ritual, and inner practice.
+From the viewpoint of Interdimensional Communication Theory, religion can be regarded as an **early human interface to high-dimensional tension phenomena**. It is not merely faith or ritual, but a **syntax of collective CPRR circuits**, manifested through myth, language, ritual, and inner practice.
 
 Mapping religious elements onto CPRR stages:
 
@@ -2620,7 +2669,7 @@ Mapping religious elements onto CPRR stages:
 
 - **Doctrine and prophecy** → Recording
 
-Religions are historical **deployment simulations** of cross-dimensional grammar—while culturally filtered and symbolically encoded, they nonetheless represent attempts to **model signal inscriptions from beyond**.
+Different religious systems are, in effect, historical **simulation experiments** in different dimensional deployment grammars. Although structured by ritual and myth, they also contain **biased compressions and cultural translations** of high-dimensional signals.
 
 → Religion is a **high-compression, high-tolerance historical signal archive**.
 
@@ -2636,7 +2685,7 @@ In CPRR, each inscription recursively influences future compression and projecti
 
 > The present is the only field where inscription and resonance can occur.
 
-The past is already encoded. The future is not yet compressed. Only **the structure density of the now** allows for projection and resonance.
+The past is already settled. The future is not yet compressed. Only **the structure density of the now** allows for genuine projection and resonance. You cannot awaken in the future, nor respond again in the past. Your only interface for communicating with the universe is this moment.
 
 → Cherishing the present is not a sentiment—it is **a structural imperative**.
 
@@ -2660,7 +2709,7 @@ Furthermore, if children or general participants **reproduce accurate details of
 
 1. That information arises **solely from environmental causal input** (Shannon’s communication model);
 
-1. That the subconscious is **purely random noise** (Freudian unconscious);
+1. That dream content arises mainly from **random brainstem activation** that the forebrain then synthesizes into a narrative (Hobson and McCarley’s activation-synthesis hypothesis);
 
 1. That decisions in consciousness are **independent of physical resonance** (neuro-determinism).
 
@@ -2696,13 +2745,13 @@ Modules include:
 
   - Map spectral deviations and identify **resonant anomaly zones**
 
-1. **Dream Structure Vector Clustering Module**
+2. **Dream Structure Vector Clustering Module**
 
   - Convert dream narratives and images into multimodal vectors via LLM + CLIP
 
   - Apply unsupervised clustering to detect **structural archetypes devoid of semantic overlap**
 
-1. **Latent Emergence Point Monitoring Module**
+3. **Latent Emergence Point Monitoring Module**
 
   - Detect rare, cross-subject common structural units (e.g., fractals, symbols, phonemes)
 
@@ -2728,7 +2777,7 @@ To enhance the academic testability of *Project Aletheia*, we define two primary
 
 - Only considers dream data timestamped **prior to the public occurrence**
 
-- High cross-subject clustering suggests **precognitive structural resonance**
+- High cross-subject clustering shows only convergence beyond the chosen null model; common causes (shared media exposure, seasonal themes, event base rates) must be ruled out before it can be read as support for **precognitive structural resonance**
 
 ---
 
@@ -2756,13 +2805,13 @@ In addition, a large-scale dream database will be constructed. It will store dre
 
   - Significant vector proximity constitutes structural echo evidence
 
-1. **Precognitive Event Correlation Module**
+2. **Precognitive Event Correlation Module**
 
   - Retrospectively compare dreams to **unfolded future events** (e.g., natural disasters, political crises)
 
   - Look for **semantic vector convergence and temporal alignment**
 
-1. **Cognitive Obfuscation Validation Module**
+3. **Cognitive Obfuscation Validation Module**
 
   - Rigorously document and control participant background knowledge
 
@@ -2778,12 +2827,12 @@ In addition, a large-scale dream database will be constructed. It will store dre
 
 ### **A.6 Non-Semantic Structural Stimulus Input Design**
 
-Use **undeciphered symbolic systems** to prevent semantic contamination:
+Use **ancient scripts and symbol systems that participants cannot read** to prevent semantic contamination (Sumerian cuneiform, Egyptian hieroglyphs and Maya glyphs have been deciphered by specialists; only the Harappan/Indus script remains undeciphered):
 
 | Type | Features | Source Corpus |
 | --- | --- | --- |
 | Sumerian Cuneiform | Node-based, abstract forms | CDLI, Open Cuneiform Corpus |
-| Egyptian Hieroglyphs | Image-based compression, non-phonetic | Hieroglyphica, EGDP |
+| Egyptian Hieroglyphs | Image-based compression; mixed phonetic and logographic signs | Hieroglyphica, EGDP |
 | Mayan Glyphs | Strong spatiotemporal image compression | MayaGlyph Corpus |
 | Harappan Seals | Undeciphered; ideal for pure structure mapping | Harappan Symbol Corpus |
 
@@ -2805,7 +2854,7 @@ If consciousness is indeed a product of **cross-dimensional tension exceeding in
 
 - Introduces a **non-semantic, structure-first verification model**
 
-- Demonstrates that **compression and spectral focus alone** can create observable signal phenomena
+- Tests whether **compression and spectral focus alone** can create observable signal phenomena
 
 - Enhances the **empirical operability** of cross-dimensional signal theory, even without semantic anchor points
 
@@ -2819,7 +2868,7 @@ This section presents four historical experimental frameworks whose core hypothe
 
 #### **A.8.1 The Global Consciousness Project (GCP)**
 
-- **Director**: Roger D. Nelson (Princeton University, PEAR Lab)
+- **Director**: Roger D. Nelson (Coordinator of Research at Princeton’s PEAR Lab, 1980–2002; the GCP originated at PEAR and has since been run independently by Nelson, with logistical support from the Institute of Noetic Sciences)
 
 - **Core idea**: Deploying Random Event Generators (REGs) globally to detect statistical deviations during major collective-emotion events (e.g., 9/11, New Year’s Eve).
 
@@ -2827,11 +2876,13 @@ This section presents four historical experimental frameworks whose core hypothe
 
 **Limitations**:
 
-- No reproducible experimental design or falsifiable hypothesis
+- No reproducible experimental design or hypothesis that excludes alternative explanations
 
 - Accusations of post-hoc statistical manipulation (p-hacking)
 
 - Lacks a physically defined mechanism for “consciousness–device interaction”
+
+- Independent analyses found that the apparent 9/11 effect disappears under alternative analysis choices (Scargle, 2002); Bancel (2017), a former GCP analyst, concluded that the data do not support a “global consciousness” interpretation
 
 **Insights for Project Aletheia**:
 
@@ -2847,7 +2898,7 @@ This section presents four historical experimental frameworks whose core hypothe
 
 **Limitations**:
 
-- No double-blind design; photographic selection bias; no replication consistency
+- Emoto’s original experiments had no double-blind design and showed photographic selection bias; later double-/triple-blind tests by Radin et al. (2006, 2008) reported small differences in aesthetic ratings, but both were run by the same team, with Emoto as a co-author
 
 - Largely dismissed by mainstream science as pseudoscience
 
@@ -2871,6 +2922,8 @@ This section presents four historical experimental frameworks whose core hypothe
 
 - No systematic replicability or falsifiable structural model
 
+- Generally regarded by mainstream science as pseudoscience (Maddox, 1981); in a chick-learning experiment designed jointly with Sheldrake, Rose (1992) judged that the results did not support the hypothesis (Sheldrake disputes this)
+
 **Insights for Project Aletheia**:
 
 - The idea of **“collective memory echoes”** is inspiring
@@ -2881,19 +2934,19 @@ This section presents four historical experimental frameworks whose core hypothe
 
 #### **A.8.4 Search Density Precursor Effect**
 
-- Observed keyword spikes in Google searches **prior to** major events (e.g., SARS, 9/11, COVID-19), including terms like “strange cough” or “airplane crash dream”
+- Search-keyword density sometimes rises **before** events are officially recorded; for example, COVID-19 symptom-related searches rose on average about 18 days before reported cases (Lu & Reis, 2021)
 
 **Limitations**:
 
 - No clear causal model; difficult to attribute to subjective intention
 
-- Potentially confounded by media leakage or bias
+- Potentially confounded by media leakage or bias; the lead also has an ordinary causal explanation (people search for their own symptoms before seeking care and before cases are reported), and such signals are unstable: Google Flu Trends substantially overestimated influenza prevalence (Lazer et al., 2014)
 
 **Insights for Project Aletheia**:
 
 - We aim to **merge dream data and semantic embeddings** to construct a **pre-event resonance spectrum model**
 
-- Time-stamped blockchain records enable verifiable correlations with post-event data, strengthening causal inference
+- Time-stamped blockchain records establish that dream reports predate the events (temporal precedence), which is necessary but not sufficient for causal inference
 
 ---
 
@@ -2902,10 +2955,10 @@ This section presents four historical experimental frameworks whose core hypothe
 | **Discipline** | **Anticipated Contribution** |
 | --- | --- |
 | **Neuroscience** | Develops a resonance–REM spectral coupling model; introduces a structural threshold observability framework. |
-| **Consciousness Studies** | Proposes a theory of **discrete manifestation**: consciousness arises at threshold-crossing structural events rather than from continuous flow. |
+| **Consciousness Studies** | Proposes a theory of **discrete manifestation**: consciousness may arise at threshold-crossing structural events rather than from continuous flow. |
 | **Linguistics & Semiotics** | Challenges the "language = symbol = meaning" triad by proposing a "structure-as-resonance" model of communication. |
 | **AI & Embedding Learning** | Uses high-compression visual symbolic structures as novel **embedding priming signals**, supporting latent vector reconstruction. |
-| **Theoretical Physics** | Establishes conceptual mappings with **loop quantum gravity**: interprets consciousness as a boundary interface of nodal inscription in spacetime topology. |
+| **Theoretical Physics** | Seeks conceptual analogies with the spin-network node structure of **loop quantum gravity**, exploring the interface between the universe’s recording structure and consciousness. |
 
 ---
 
@@ -2919,7 +2972,7 @@ In contrast to *Project Aletheia*, which centers on dream phenomena and non-sema
 
 - Musical structures encode high-purity **non-semantic tension patterns**;
 
-- Resonance effects are **culturally universal** and elicit **immediate responses**;
+- Resonance effects are hypothesized to be **culturally universal** and to elicit **immediate responses** (existing evidence is mixed: for example, the preference for consonance is not universal; McDermott et al., 2016);
 
 - Frequency spectra, harmonic patterns, and structural ratios are **quantifiable**;
 
@@ -3002,6 +3055,8 @@ The emotional resonance of music arises from its role as a compressed projection
 
 - **Goals**:
 
+  - Test whether the Structural Purity Index can serve as a quantitative predictor of cross-cultural musical resonance
+
   - Optimize resonance parameters across cultural models
 
   - Identify **minimal effective musical units**
@@ -3010,7 +3065,7 @@ The emotional resonance of music arises from its role as a compressed projection
 
 ---
 
-### B.4 **Indices and Computational Formulas**
+### **B.4 Indices and Computational Formulas**
 
 **Structural Purity Index (SPI):**
 
@@ -3024,14 +3079,14 @@ Where:
 
 - $\varphi_{ratio}$: Golden ratio fit
 
-- $\ S_{symmetry}$: Structural symmetry score
+- $S_{symmetry}$: Structural symmetry score
 
 - $F_{fractal}$: Measured fractal dimension
 
 - $H_{harmony}$: Harmonic structure purity
 
 
-**Cross-Resonance Index (CRI):**
+**Cross-dimensional Resonance Index (CRI):**
 
 
 $$
@@ -3047,7 +3102,7 @@ Where:
 
 - SPI: Structural Purity Index
 
-- CSI: Cross-cultural Synchronization Index
+- CSI: Cross-cultural Consistency Index
 
 ---
 
@@ -3065,11 +3120,21 @@ Where:
 
 ### **B.6 Anticipated Contributions and Risk Assessment**
 
+**Anticipated Contributions**
+
+- Proposes a replicable experimental design for cross-dimensional music research
+
+- Establishes quantifiable indices linking structural purity and conscious resonance
+
+- Provides a non-dream-based experimental test bed for ICT
+
+**Potential Risks**
+
 | Aspect | Potential Limitation | Mitigation Strategy |
 | --- | --- | --- |
 | EEG Resolution | Limited spatial resolution | Combine with fMRI; emphasize network coherence |
 | Cultural Variables | Interference from aesthetic conditioning | Double-blind design; background profiling |
-| Interpretability | Risk of neural/evolutionary misattribution | Include reverse-control disruption module |
+| Interpretability | Difficulty ruling out neural/evolutionary explanations | Include reverse-control disruption module |
 
 ---
 
@@ -3111,15 +3176,15 @@ This module anticipates multi-disciplinary challenges from neuroscience, evoluti
 
 - **Refutation 1**: Why do unlearned frequency combinations still trigger resonance?
 
-- **Refutation 2**: Why do mathematical ratios (e.g., φ = 1.618) evoke aesthetic responses across species?
+- **Refutation 2**: Why might mathematical ratios (e.g., φ ≈ 1.618) evoke aesthetic responses across species? (This is a hypothesis to be tested: studies of human preference for the golden ratio are inconsistent, and cross-species evidence is lacking; see Green, 1995.)
 
 - **Refutation 3**: Why do entirely novel, AI-generated musical structures still induce emotional responses?
 
-- **Decisive Protocol**: Use AI-generated music, neonatal responses, and animal trials to completely eliminate learned/cultural variables.
+- **Decisive Protocol**: Use AI-generated music, neonatal responses, and animal trials to minimize learned/cultural variables (they cannot be completely eliminated: AI models are trained on culturally specific corpora, and newborns have prenatal auditory exposure; Partanen et al., 2013).
 
 **Challenge 2: Cultural Interference**
 
-- If culture dominates perception, why do disparate musical systems converge toward the same mathematical structures?
+- If culture dominates perception, why do disparate musical systems still share some statistical regularities (e.g., discrete pitches, few scale degrees, isochronous beats; Savage et al., 2015)?
 
 - Experiments will include “de-cultured” artificial structures, cultural conflict settings, and exposure to culturally taboo musical passages to test for **persistent structural resonance**.
 
@@ -3153,11 +3218,11 @@ This module anticipates multi-disciplinary challenges from neuroscience, evoluti
 
 - Why are live performances more emotionally resonant than recordings?
 
-These phenomena point toward the **direct perception of structural tension**—not explainable via semantics, energy, or mimicry.
+This paper conjectures that these phenomena may point toward the **direct perception of structural tension**; mainstream research offers other explanations (e.g., emotional contagion, musical expectancy and brain-stem reflexes, Juslin & Västfjäll, 2008; and the social and visual factors of live performance), which experiments would need to rule out.
 
 **Cross-Disciplinary Supporting Clues:**
 
-- **Mathematical aesthetics**: φ is found across architecture, music, and painting
+- **Mathematical aesthetics**: φ is often claimed to appear across architecture, music, and painting (many such claims do not survive measurement; see Markowsky, 1992)
 
 - **Physical resonance**: from atomic orbitals to galactic arms
 
@@ -3165,21 +3230,15 @@ These phenomena point toward the **direct perception of structural tension**—n
 
 ---
 
-#### **B.7.4 Evolution Paths and Irrefutability Statement**
+#### **B.7.4 Evolution Paths and Falsification Criteria**
 
 - **If experiments succeed completely**: Establish a repeatable, cross-cultural, cross-species standard verification model.
 
 - **If partially successful**: Adjust parameters to develop a “limited cross-dimensional communication” model.
 
-- **If unsuccessful**: Examine whether failure stems from technical limits or model assumptions. Retain the core premise that **structure determines experience**, and generalize the theory toward **structural aesthetics**.
+- **If unsuccessful**: First check, against criteria registered in advance, whether the failure stems from technical limits (e.g., insufficient statistical power or timing precision). If it does not, treat the tested sub-hypotheses as refuted and revise or abandon them, rather than adjusting parameters after the fact to preserve the conclusion. The premise that **structure determines experience** may be retained as a philosophical position, or developed into a theory of **structural aesthetics**, but no longer as an empirically supported claim.
 
-> Ontological Summary:
-
-  Interdimensional Communication Theory is not a single falsifiable hypothesis,
-
-  but an integrated **structural explanatory framework** bridging physics, aesthetics, consciousness, and language.
-
-  Even if specific predictions fail, its **structure-before-semantics** insight retains cross-domain applicability and philosophical value.
+> Ontological Summary: Interdimensional Communication Theory is not a single hypothesis, but an integrated **structural explanatory framework** bridging physics, aesthetics, consciousness, and language. The parts of the framework that yield testable predictions (such as the four sub-hypotheses in B.2) are falsifiable empirical claims, and their success and failure criteria should be publicly registered before data collection. Even if specific predictions fail, its **structure-before-semantics** insight may retain cross-domain applicability and philosophical value, but that value is philosophical, not empirical support.
 
 ---
 
@@ -3187,7 +3246,7 @@ These phenomena point toward the **direct perception of structural tension**—n
 
 Project Orpheus is not merely a validation tool; it is the experimental embodiment of the following propositions:
 
-> Music transcends language and culture because it contains the structural code of the cosmos.
+> Does music transcend language and culture because it contains the structural code of the cosmos?
 
 > If dreams are internal projections of resonance, then music is the emergence of externalized compression.
 
@@ -3201,9 +3260,17 @@ Project Orpheus is not merely a validation tool; it is the experimental embodime
 
 - Shannon, C., & Weaver, W. (1949). *The mathematical theory of communication*. University of Illinois Press.
 
-- Deleuze, G., & Guattari, F. (1980). *A thousand plateaus: Capitalism and schizophrenia* (B. Massumi, Trans.). University of Minnesota Press.
+- Chomsky, N. (1965). *Aspects of the theory of syntax*. MIT Press.
 
-- Hameroff, S., & Penrose, R. (2014). Orch OR and quantum collapse models of consciousness. *Physics of Life Reviews, 11*(1), 39–78.
+- Joos, E., Zeh, H. D., Kiefer, C., Giulini, D., Kupsch, J., & Stamatescu, I.-O. (2003). *Decoherence and the appearance of a classical world in quantum theory* (2nd ed.). Springer.
+
+- Kim, J. (1976). Events as property exemplifications. In M. Brand & D. Walton (Eds.), *Action theory* (pp. 159–177). D. Reidel.
+
+- Zurek, W. H. (2003). Decoherence, einselection, and the quantum origins of the classical. *Reviews of Modern Physics, 75*(3), 715–775.
+
+- Deleuze, G., & Guattari, F. (1987). *A thousand plateaus: Capitalism and schizophrenia* (B. Massumi, Trans.). University of Minnesota Press. (Original work published 1980)
+
+- Hameroff, S., & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews, 11*(1), 39–78. https://doi.org/10.1016/j.plrev.2013.08.002
 
 - Penrose, R. (2010). *Cycles of time: An extraordinary new view of the universe*. Bodley Head.
 
@@ -3215,7 +3282,7 @@ Project Orpheus is not merely a validation tool; it is the experimental embodime
 
 - Friston, K. (2010). The free-energy principle: A unified brain theory? *Nature Reviews Neuroscience, 11*(2), 127–138.
 
-- Jung, C. G. (1952). *Synchronicity: An acausal connecting principle*. Princeton University Press.
+- Jung, C. G. (1973). *Synchronicity: An acausal connecting principle* (R. F. C. Hull, Trans.). Princeton University Press. (Original work published 1952)
 
 - Varela, F. J., Thompson, E., & Rosch, E. (1991). *The embodied mind: Cognitive science and human experience*. MIT Press.
 
@@ -3231,17 +3298,15 @@ Project Orpheus is not merely a validation tool; it is the experimental embodime
 
 - Buterin, V. (2013). *Ethereum whitepaper: A next-generation smart contract and decentralized application platform*. Ethereum Foundation. https://ethereum.org/en/whitepaper
 
-- Buterin, V. (2020). Blockchain state models and causal ordering. *Ethereum Foundation Blog*. https://ethereum.foundation/blog/state-models
-
 - Nakamoto, S. (2008). *Bitcoin: A peer-to-peer electronic cash system* [White paper]. https://bitcoin.org/bitcoin.pdf
 
 - Barad, K. (2007). *Meeting the universe halfway: Quantum physics and the entanglement of matter and meaning*. Duke University Press.
 
 - Carroll, S. (2010). *From eternity to here: The quest for the ultimate theory of time*. Dutton.
 
-- Boneh, D., Fish, B., Gorbunov, S., Miers, I., & Zhao, J. (2022). *Sui: A layer 1 for general purpose object-centric programming*. Mysten Labs. https://research.mystenlabs.com/whitepapers/sui.pdf
+- The MystenLabs Team. (2022). *The Sui smart contracts platform* [White paper]. Mysten Labs. https://docs.sui.io/paper/sui.pdf
 
-- Yakovenko, A. (2020). *Solana: A new architecture for a high performance blockchain*. Solana Labs. [https://solana.com/solana-whitepaper.pdf](https://solana.com/solana-whitepaper.pdf)
+- Yakovenko, A. (2017). *Solana: A new architecture for a high performance blockchain* (v0.8.13) [White paper]. [https://solana.com/solana-whitepaper.pdf](https://solana.com/solana-whitepaper.pdf)
 
 - Green, M. B., Schwarz, J. H., & Witten, E. (1987). *Superstring theory* (Vols. 1 & 2). Cambridge University Press.
 
@@ -3251,14 +3316,70 @@ Project Orpheus is not merely a validation tool; it is the experimental embodime
 
 - Sheldrake, R. (1981). *A new science of life: The hypothesis of formative causation*. Blond & Briggs.
 
-- Nelson, R. D. (2002). Correlations of global events with REG data: An internet-based, nonlocal anomalies experiment. *Journal of Parapsychology, 66*(1), 3–34.
+- Nelson, R. D. (2001). Correlation of global events with REG data: An Internet-based, nonlocal anomalies experiment. *Journal of Parapsychology, 65*, 247–271.
 
 - Emoto, M. (2004). *The hidden messages in water*. Beyond Words Publishing.
 
-- Google Trends Team. (2020). Early detection of COVID-19 through online search patterns. *Google Research Blog*.
+- Lazer, D., Kennedy, R., King, G., & Vespignani, A. (2014). The parable of Google Flu: Traps in big data analysis. *Science, 343*(6176), 1203–1205. https://doi.org/10.1126/science.1248506
 
-- Lai, K. (2025). *Interdimensional Communication Theory: A structural interpretation of the universe, consciousness, life, reincarnation, and causation* (v0.9.8). Zenodo. https://doi.org/10.5281/zenodo.15689929
+- Lu, T., & Reis, B. Y. (2021). Internet search patterns reveal clinical course of COVID-19 disease progression and pandemic spread across 32 countries. *npj Digital Medicine, 4*, 22. https://doi.org/10.1038/s41746-021-00396-6
+
+- Hobson, J. A., & McCarley, R. W. (1977). The brain as a dream state generator: An activation-synthesis hypothesis of the dream process. *American Journal of Psychiatry, 134*(12), 1335–1348. https://doi.org/10.1176/ajp.134.12.1335
+
+- Scargle, J. D. (2002). Was there evidence of global consciousness on September 11, 2001? *Journal of Scientific Exploration, 16*(4), 571–577.
+
+- Bancel, P. A. (2017). Searching for global consciousness: A 17-year exploration. *Explore, 13*, 94–101. https://doi.org/10.1016/j.explore.2016.12.003
+
+- Radin, D., Hayssen, G., Emoto, M., & Kizu, T. (2006). Double-blind test of the effects of distant intention on water crystal formation. *Explore, 2*(5), 408–411.
+
+- Radin, D., Lund, N., Emoto, M., & Kizu, T. (2008). Effects of distant intention on water crystal formation: A triple-blind replication. *Journal of Scientific Exploration, 22*(4), 481–493.
+
+- Maddox, J. (1981). A book for burning? *Nature, 293*(5830), 245–246. https://doi.org/10.1038/293245b0
+
+- Rose, S. (1992). So-called "formative causation": A hypothesis disconfirmed. *Rivista di Biologia, 85*(3–4), 445–453.
+
+- McDermott, J. H., Schultz, A. F., Undurraga, E. A., & Godoy, R. A. (2016). Indifference to dissonance in native Amazonians reveals cultural variation in music perception. *Nature, 535*, 547–550. https://doi.org/10.1038/nature18635
+
+- Savage, P. E., Brown, S., Sakai, E., & Currie, T. E. (2015). Statistical universals reveal the structures and functions of human music. *Proceedings of the National Academy of Sciences, 112*(29), 8987–8992. https://doi.org/10.1073/pnas.1414495112
+
+- Partanen, E., Kujala, T., Tervaniemi, M., & Huotilainen, M. (2013). Prenatal music exposure induces long-term neural effects. *PLoS ONE, 8*(10), e78946. https://doi.org/10.1371/journal.pone.0078946
+
+- Green, C. D. (1995). All that glitters: A review of psychological research on the aesthetics of the golden section. *Perception, 24*(8), 937–968. https://doi.org/10.1068/p240937
+
+- Markowsky, G. (1992). Misconceptions about the golden ratio. *The College Mathematics Journal, 23*(1), 2–19.
+
+- Juslin, P. N., & Västfjäll, D. (2008). Emotional responses to music: The need to consider underlying mechanisms. *Behavioral and Brain Sciences, 31*(5), 559–575.
+
+- Lai, K. (2025). *Interdimensional Communication Theory: A structural interpretation of the universe, consciousness, life, reincarnation, and causation* (v0.9.8). Zenodo. https://doi.org/10.5281/zenodo.15784483
+
+- Diaconis, P., & Mosteller, F. (1989). Methods for studying coincidences. *Journal of the American Statistical Association*, 84(408), 853–861. https://doi.org/10.1080/01621459.1989.10478847
+
+- Bombelli, L., Lee, J., Meyer, D., & Sorkin, R. D. (1987). Space-time as a causal set. *Physical Review Letters*, 59(5), 521–524. https://doi.org/10.1103/PhysRevLett.59.521
 
 - Bose, J. C. (1926). *The Nervous Mechanism of Plants*. Longmans, Green & Co.
 
-- Gagliano, M., Renton, M., Depczynski, M., & Mancuso, S. (2014). Experience teaches plants to learn faster and forget slower in environments where it matters. *Scientific Reports*, 4, 5614. https://doi.org/10.1038/srep05614
+- Gagliano, M., Renton, M., Depczynski, M., & Mancuso, S. (2014). Experience teaches plants to learn faster and forget slower in environments where it matters. *Oecologia*, *175*, 63–72. https://doi.org/10.1007/s00442-013-2873-7
+
+- Luria, S. E., & Delbrück, M. (1943). Mutations of bacteria from virus sensitivity to virus resistance. *Genetics*, *28*(6), 491–511. https://doi.org/10.1093/genetics/28.6.491
+
+- Büeler, H., Aguzzi, A., Sailer, A., Greiner, R.-A., Autenried, P., Aguet, M., & Weissmann, C. (1993). Mice devoid of PrP are resistant to scrapie. *Cell*, *73*(7), 1339–1347. https://doi.org/10.1016/0092-8674(93)90360-3
+
+- Prusiner, S. B. (1982). Novel proteinaceous infectious particles cause scrapie. *Science*, *216*(4542), 136–144. https://doi.org/10.1126/science.6801762
+
+- Biegler, R. (2018). Insufficient evidence for habituation in Mimosa pudica. Response to Gagliano et al. (2014). *Oecologia*, *186*(1), 33–35. https://doi.org/10.1007/s00442-017-4012-3
+
+- Jung-Beeman, M., Bowden, E. M., Haberman, J., Frymiare, J. L., Arambel-Liu, S., Greenblatt, R., Reber, P. J., & Kounios, J. (2004). Neural activity when people solve verbal problems with insight. *PLoS Biology*, *2*(4), e97. https://doi.org/10.1371/journal.pbio.0020097
+
+- Pitts, M. A., Metzler, S., & Hillyard, S. A. (2014). Isolating neural correlates of conscious perception from neural correlates of reporting one's perception. *Frontiers in Psychology*, *5*, 1078. https://doi.org/10.3389/fpsyg.2014.01078
+
+- Maquet, P., Péters, J.-M., Aerts, J., Delfiore, G., Degueldre, C., Luxen, A., & Franck, G. (1996). Functional neuroanatomy of human rapid-eye-movement sleep and dreaming. *Nature*, *383*(6596), 163–166. https://doi.org/10.1038/383163a0
+
+- Nir, Y., & Tononi, G. (2010). Dreaming and the brain: From phenomenology to neurophysiology. *Trends in Cognitive Sciences*, *14*(2), 88–100. https://doi.org/10.1016/j.tics.2009.12.001
+
+- Carhart-Harris, R. L., & Friston, K. J. (2010). The default-mode, ego-functions and free-energy: A neurobiological account of Freudian ideas. *Brain*, *133*(4), 1265–1283. https://doi.org/10.1093/brain/awq010
+
+- Salimpoor, V. N., Benovoy, M., Larcher, K., Dagher, A., & Zatorre, R. J. (2011). Anatomically distinct dopamine release during anticipation and experience of peak emotion to music. *Nature Neuroscience*, *14*(2), 257–262. https://doi.org/10.1038/nn.2726
+
+- Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, *65*(6), 061901. https://doi.org/10.1103/PhysRevE.65.061901
+
+- Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, *61*(4), 4194–4206. https://doi.org/10.1103/PhysRevE.61.4194
