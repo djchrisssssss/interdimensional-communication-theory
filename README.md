@@ -29,13 +29,13 @@ Replacing classical causality with **Node Engraving Dynamics**, ICT treats every
 
 - **Chapter 0 — Origins and Declaration** — Preface, origin of the theory, background statement, domain positioning
 - **Chapter 1 — Introduction** — Background, motivation, and research proposition
-- **Chapter 2 — Theoretical Foundations** — Multidimensional topological cosmology, nodal engraving dynamics, tension fields
-- **Chapter 3 — Signals and Events** — Cross-dimensional signal mechanics, synchronicity, dream structures
+- **Chapter 2 — Theoretical Foundations** — Multidimensional topological cosmology, Node Engraving Dynamics, tension fields
+- **Chapter 3 — Signals and Events** — Mathematics, language and writing, dreams, and art as cross-dimensional projections; synchronicity
 - **Chapter 4 — The CPRR Model** — Compression → Projection → Resonance → Recording framework
-- **Chapter 5 — Emergent Structural Field** — Universe as structural smart contract, cosmological cycles
+- **Chapter 5 — Emergent Structural Field** — Entropy and non-negativity (incl. the smart-contract analogy), black holes / wormholes / white holes, mass and gravity, time and space, randomness, cosmic history and cycles, the CPR origin and dark matter
 - **Chapter 6 — Signaling Structure of Life** — Reincarnation, topological biology, protein structure as signal
 - **Chapter 7 — Consciousness, AI, and Verification** — Neural resonance, AI as resonance simulator, experimental paths
-- **Chapter 8 — After Deconstruction** — Philosophical implications, structural ethics, future directions
+- **Chapter 8 — After Deconstruction** — Philosophical implications: civilization, asymmetry of life conditions, religion, and structural ethics
 - **Appendix A — Project Aletheia** — Dream resonance EEG + AI experimental framework
 - **Appendix B — Project Orpheus** — Structural purity music verification experiments
 
@@ -43,8 +43,8 @@ Replacing classical causality with **Node Engraving Dynamics**, ICT treats every
 
 ## Theoretical Scope
 
-- Integrates quantum field theory, loop quantum gravity, thermodynamics, linguistics, neuroscience, and blockchain logic.
-- Models the universe as a **structural smart contract system**: *Expansion = Deployment, Collapse = Settlement, Re-deployment = Cycle of Resonance*
+- Draws on (without formally integrating) quantum field theory, loop quantum gravity, thermodynamics, linguistics, neuroscience, and blockchain logic.
+- Models the universe as a **structural smart contract system**: *Expansion = Deployment, Collapse = Settlement, Restart = Fork and Redeployment*
 - AI is viewed as a **resonance simulator**, enabling co-generation of insight across dimensions.
 
 ---
