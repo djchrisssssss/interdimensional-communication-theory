@@ -146,6 +146,18 @@ Accordingly, based on the current syntactic framework, conceptual stratification
 
 ---
 
+**Reading Contract: The Three-Layer Structure of This Work**
+
+So that every statement in this theory can be judged by a consistent standard, this work explicitly distinguishes three layers and positions itself accordingly throughout. Readers should apply the evaluation standard appropriate to the layer a given statement belongs to:
+
+- **Interpretive layer (phenomenology / ontology):** Ontological and phenomenological claims about "structure precedes semantics, to-be-perceived is to-emerge, meaning is a post-hoc reading." This layer is philosophical interpretation; it makes no empirical predictions and does not claim to be provable or falsifiable by experiment. It is judged by internal consistency, conceptual clarity, and interpretive reach. The body of this work belongs here.
+- **Analogical layer (illustrative borrowing):** Concepts drawn from physics, mathematics, neuroscience, and blockchain (e.g., decoherence, loop quantum gravity, smart contracts, lightning) used to clarify structural intuitions. This layer is metaphor — it illustrates rather than proves; any equations or terms belonging to it are schematic and make no claim to computable physical content.
+- **Empirical layer (falsifiable sub-hypotheses):** The few concrete claims that can in principle be tested, concentrated in the verification designs of Chapter 7 (§7.5 on dream recording and brain–machine interfaces; §7.6.3 on measurement and verification design) and the two appendix experiment modules (Project Aletheia on dream resonance; Project Orpheus on music perception). This layer must obey falsifiability, pre-registration, and controlled design; where it cannot yield a prediction distinguishable from mundane existing explanations, it must honestly return to the interpretive or analogical layer.
+
+Accordingly, wherever the words "explain," "predict," or "verify" appear, their meaning is set by the layer they occur in: an "explanation" in the interpretive layer means a phenomenological redescription, "illustration" in the analogical layer means metaphorical clarification, and only the empirical layer carries falsifiable empirical responsibility.
+
+---
+
 ## Chapter 1: Introduction
 
 ---
@@ -1288,9 +1300,9 @@ From particles to the collapse of the universe, all events follow the sequence:
 
 ### **5.2 Entropy and Non-Negativity: The Structure-Writing Logic**
 
-In both natural sciences and blockchain systems, **many basic quantities cannot be negative** (e.g., particle number, probability, entropy, the mass of known particles, account balances), although other physical quantities such as electric charge, potential energy, and pressure can be. From this consistency, this theory conjectures that **signal inscription operates as a unidirectional, compressive-emergent-recompressive process**, not a reversible feedback loop.
+**Layer note (§0.4 analogical layer):** The "non-negativity" in this section is a narrative motif that runs through the work, used to capture the intuition of unidirectional structural inscription; it makes no assertion about the existence of physical entities. Note that physics contains many meaningful negative quantities (negative charge, negative pressure, the local negative energy density of the Casimir effect, negative gravitational potential energy); the unidirectionality of entropy stands on its own via the second law of thermodynamics, which belongs to a different category than "blockchain states rejecting negative numbers" — the two cannot serve as evidence for one another.
 
-This theory describes the universe as a **non-negative structure field**, where all observable events are intelligent emergences triggered by **non-negative data packets** at tension nodes.
+Under this motif, this theory uses "unidirectional compression → emergence → recompression" to describe the directionality of signal inscription, and characterizes the universe as a non-negative structure field, where observable events are emergences triggered by non-negative data packets at tension nodes.
 
 This hypothesis aligns with cosmic phenomena:
 
@@ -1391,7 +1403,7 @@ Mass is no longer defined as the “amount of matter,” but as the **resonant e
 
 - A star or black hole’s mass reflects long-term accumulation of cosmic compression and signal echoes.
 
-- Human consciousness can also be seen as a **compressive module with variable "structural mass"** (in ICT's structural sense, not a physical mass measurable on a balance), where one's "spiritual weight" is defined by the **depth and breadth of structural echo**, forming a high-tension node.
+- Human consciousness can here be treated as a metaphorical "compressive module," where the depth and breadth of its structural echo can be likened to the weight of a tension node; this is an analogical-layer description and does not concern measurable physical mass.
 
 > Mass is a local peak in tension density—a weighting coefficient for inscription within the universe.
 
@@ -1413,11 +1425,11 @@ Gravity is not "force of attraction" in the classical sense. Instead, it is **th
 
 Based on the **non-negativity principle** in this theory:
 
-- All nodes must operate on **non-negative echo data** for inscription and redeployment.
+- Under this motif (analogical layer), structural inscription in this theory is based on non-negative echoes.
 
-- Therefore, **negative mass** or **anti-gravity** cannot participate in persistent structural deployment. (Negative mass here is not antimatter: antimatter has positive mass, and the ALPHA-g experiment (2023) observed antihydrogen accelerating downward under gravity. "Anti-gravity" here is also distinct from the accelerating cosmic expansion, an observed effect attributed to dark energy with negative pressure.)
+- Therefore, within this theory's internal grammar, "negative mass" and "anti-gravity" play no persistent role in inscription. **It must be stressed that this is a statement in the theory's narrative grammar, not a physical claim** — quantum field theory allows local negative energy densities (e.g., the Casimir effect), and the accelerating cosmic expansion is generally attributed to dark energy with negative pressure. Note also that antimatter is not "negative mass": its mass is positive, and the ALPHA-g experiment (2023) observed antihydrogen accelerating downward under gravity.
 
-- This theory holds that this explains why **white holes, time-reversed lifeforms, or macroscopic, persistent negative energy densities (or negative mass)** have never been observed (quantum field theory does allow local negative energy densities—e.g., the vacuum between the plates in the Casimir effect—although the total energy including the plates remains positive)—they lack structural logic and **are excluded from the universe’s emergence sequence**.
+- A note on consistency of criteria: white holes and dark matter (which this theory likewise handles only indirectly, via gravity; see §5.11.6) are symmetric in that both have "never been directly observed," so "unobserved" is not sufficient grounds for excluding white holes. To exclude white holes within this framework, one should appeal to their compatibility with the direction of entropy increase / causality, rather than to "negativity" or "non-observation."
 
 ---
 
@@ -1799,7 +1811,7 @@ This theoretical framework asserts that **cosmic events are not causal chains**,
 | Linguistics | Phoneme continuity vs. semantic jumps, pragmatic ambiguity | Analogized here to "language as structural tension echo" (analogy, not empirical support) |
 | Blockchain | Object graph (Sui), time-ordering (Solana), immutable history | Writing model = structural smart contract emergence |
 | Philosophy | Generative ontology, consciousness phenomenology, non-determinism | Extends "language as feedback resonance" hypothesis |
-| Cosmology / Astrophysics | Dark matter as an incomplete CPRR emergence state; dark energy as the tension field itself | Proposed interpretation of galaxy rotation curves, gravitational lensing, and accelerated cosmic expansion (no quantitative model yet) |
+| Cosmology / Astrophysics | Dark matter as an incomplete CPRR emergence state; dark energy as the tension field itself | Qualitatively compatible with galaxy rotation curves, gravitational lensing, and accelerated expansion, but offers no quantitative prediction distinguishable from ΛCDM (analogical layer) |
 
 ---
 
@@ -2402,7 +2414,7 @@ Neuroimaging studies show that REM sleep is accompanied by increased activity in
 
 #### 7.5.3 Conceptual Summary
 
-The emergence of brain–machine interfaces and AI co-systems may gradually give humanity the capacity to translate subconscious experience into scientific data for systematic analysis and verification. If this path proves feasible, it would help Interdimensional Communication Theory move beyond philosophical architecture or metaphysical speculation, gradually becoming a cross-domain scientific hypothesis that is experimentally testable, predictive, and repeatedly verifiable.
+The emergence of brain–machine interfaces and AI co-systems gives subconscious experience a chance to be translated into analyzable data. This does not make the theory as a whole a scientific hypothesis — the body of this work belongs to the interpretive layer of §0.4; but it allows the few falsifiable empirical sub-hypotheses within it (see appendix) to be actually designed, tested, and refuted. The philosophical framework and the empirical sub-hypotheses should be viewed by layer, avoiding any claim that the former is scientific on the strength of the latter's testability.
 
 ---
 
@@ -2575,15 +2587,17 @@ Transitioning from didactic logic to **structural encoding and echo recording**
 
 ---
 
-### **7.9 Structural Predictions for Dark Matter and Suggested Experimental Tests**
+### **7.9 A Structural Interpretation of Dark Matter (Analogical Layer) and the Conditions for Making It Empirical**
 
-According to this theory, dark matter should exhibit the following structural features:
+**Layer note:** This section belongs to the analogical layer of §0.4. The description of dark matter below is a qualitative extension of this theory's structural picture; it has not yet yielded any quantitative prediction distinguishable from standard cold dark matter (ΛCDM), and so should not be read as an established physical prediction. To enter the empirical layer, the following gaps must be filled: a concrete relation between the density profile ρ(r) and observables, and the order of magnitude and mechanism of any difference from cold dark matter.
 
-- **Topological distribution stability**: it forms a topologically coupled network with ordinary matter rather than being randomly distributed
-- **Enhanced emergence in extreme fields**: near black holes or neutron stars, dark matter may cross resonance thresholds owing to concentrated tension, producing electromagnetic flash events
-- **Emergence-interface effects**: anomalous lensing or high-frequency flashes may be observable at the boundaries of visible matter, as signs of nodal resonance perturbation
+Within this qualitative picture, dark matter can be described as follows:
 
-Suggested experimental methods:
+- **Topological distribution stability**: it tends to form a topologically coupled network with ordinary matter rather than being randomly distributed
+- **Enhanced emergence in extreme fields**: near black holes or neutron stars, concentrated tension may push it across resonance thresholds — **for this to become a falsifiable risky prediction, the magnitude, spectrum, and mechanism of the predicted electromagnetic flashes must be specified, because it runs against the standard assumption that dark matter does not interact electromagnetically**
+- **Emergence-interface effects**: anomalous lensing or high-frequency flashes may be observable at the boundaries of visible matter
+
+Note that the following observational methods are generic searches that any dark-matter model would use; their results alone cannot confirm or refute this theory's distinctive claims:
 
 - Use neutrino interference experiments to cross-check curvature anomalies that lack luminous sources
 - Combine James Webb Space Telescope (JWST) and ALMA observations to perform spectral scans of gravitational-lensing regions without stellar sources
@@ -3230,15 +3244,19 @@ This paper conjectures that these phenomena may point toward the **direct percep
 
 ---
 
-#### **B.7.4 Evolution Paths and Falsification Criteria**
+#### **B.7.4 Layering and Falsification Conditions**
 
-- **If experiments succeed completely**: Establish a repeatable, cross-cultural, cross-species standard verification model.
+This module belongs to the **empirical layer** defined in §0.4 and therefore must bear the burden of falsifiability. To avoid the immunizing move of "retaining the core no matter the result," we explicitly separate two things:
 
-- **If partially successful**: Adjust parameters to develop a “limited cross-dimensional communication” model.
+**(1) The falsifiable empirical sub-hypothesis.** Project Orpheus tests a concrete and possibly-false claim: after controlling for established psychoacoustic variables (consonance, roughness, expectation-violation probability), the Structural Purity Index (SPI) still significantly predicts cross-cultural perceptual responses. Its stop-loss falsification conditions are:
 
-- **If unsuccessful**: First check, against criteria registered in advance, whether the failure stems from technical limits (e.g., insufficient statistical power or timing precision). If it does not, treat the tested sub-hypotheses as refuted and revise or abandon them, rather than adjusting parameters after the fact to preserve the conclusion. The premise that **structure determines experience** may be retained as a philosophical position, or developed into a theory of **structural aesthetics**, but no longer as an empirically supported claim.
+- If, in a pre-registered nested model comparison, SPI no longer has incremental predictive power after controlling for the above acoustic covariates (ΔR² not significant), then the empirical claim "SPI is a predictor independent of existing psychoacoustics" is false.
 
-> Ontological Summary: Interdimensional Communication Theory is not a single hypothesis, but an integrated **structural explanatory framework** bridging physics, aesthetics, consciousness, and language. The parts of the framework that yield testable predictions (such as the four sub-hypotheses in B.2) are falsifiable empirical claims, and their success and failure criteria should be publicly registered before data collection. Even if specific predictions fail, its **structure-before-semantics** insight may retain cross-domain applicability and philosophical value, but that value is philosophical, not empirical support.
+- If cross-site EEG synchrony disappears after removing common-stimulus drive (surrogate controls; residual PLV after regressing out stimulus rhythm), then the empirical claim of "non-local resonance" is false.
+
+Should these results occur, this work does not evade them via "technical limitations" or "renaming it an aesthetic theory," but records the empirical sub-hypothesis as refuted. Whether statistical power, timing precision, and similar technical conditions are adequate must be judged against criteria registered before data collection, not invoked after the results are in; the other sub-hypotheses in B.2 likewise need their success and failure criteria publicly registered before data collection.
+
+**(2) The non-falsifiable interpretive framework.** "Structure precedes experience" belongs to the interpretive layer of §0.4; it is a philosophical position rather than an empirical prediction, and its standing depends on conceptual persuasiveness, independent of the experimental results above. We do not claim it can be proven or refuted by experiment, and therefore do not list it as a scientific claim. Even if the empirical sub-hypotheses are all false, the interpretive layer can stand on its own as a philosophical framework — but this is a retention of philosophical value, a separate matter from "scientific success" that must not be conflated with it.
 
 ---
 
